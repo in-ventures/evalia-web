@@ -1,0 +1,256 @@
+/* ============================================================
+   EVALIA · COMPONENTS
+   Componentes reutilizables. Todos usan tokens — nunca colores
+   hardcoded. Convención: .ev-<componente>__<parte>.
+   ============================================================ */
+
+/* ── Botones ───────────────────────────────────────────── */
+.ev-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 22px;
+  font-size: 12.5px;
+  font-weight: 400;
+  letter-spacing: 0.3px;
+  border-radius: var(--ev-radius-sm);
+  transition: all var(--ev-dur-fast) var(--ev-ease);
+  width: fit-content;
+  white-space: nowrap;
+}
+.ev-btn__arrow { transition: transform var(--ev-dur-fast) var(--ev-ease); }
+.ev-btn:hover .ev-btn__arrow { transform: translateX(4px); }
+
+.ev-btn--primary {
+  background: var(--ev-accent);
+  color: var(--ev-navy-900);
+}
+.ev-btn--primary:hover { background: #fff; transform: translateY(-1px); }
+
+.ev-btn--ghost {
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  color: #fff;
+}
+.ev-btn--ghost:hover { border-color: var(--ev-accent); color: var(--ev-accent); }
+
+.ev-btn--outline {
+  border: 1px solid var(--ev-line);
+  color: var(--ev-navy-900);
+  background: transparent;
+}
+.ev-btn--outline:hover { border-color: var(--ev-accent); background: var(--ev-accent); }
+
+/* ── Link con flecha ───────────────────────────────────── */
+.ev-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--ev-accent);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.ev-link .ev-btn__arrow { transition: transform var(--ev-dur-fast) var(--ev-ease); }
+.ev-link:hover .ev-btn__arrow { transform: translateX(4px); }
+
+/* ── Badge · severidad + estado ───────────────────────── */
+/* Uso: <span class="ev-badge ev-badge--high">Alta</span> */
+.ev-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  font-size: var(--ev-fs-xs);
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  border-radius: var(--ev-radius-sm);
+  border: 1px solid transparent;
+}
+.ev-badge--high { color: var(--ev-sev-high); background: var(--ev-sev-high-bg); border-color: var(--ev-sev-high-br); }
+.ev-badge--med  { color: var(--ev-sev-med);  background: var(--ev-sev-med-bg);  border-color: var(--ev-sev-med-br); }
+.ev-badge--low  { color: var(--ev-sev-low);  background: var(--ev-sev-low-bg);  border-color: var(--ev-sev-low-br); }
+.ev-badge--info { color: var(--ev-sev-info); background: var(--ev-sev-info-bg); border-color: var(--ev-sev-info-br); }
+.ev-badge--success { color: var(--ev-success); background: var(--ev-success-bg); }
+.ev-badge--warn { color: var(--ev-warn); background: var(--ev-warn-bg); border-color: var(--ev-warn-br); }
+
+/* Dot activo junto a badge ("en vivo"). */
+.ev-badge__dot {
+  width: 5px; height: 5px; border-radius: 50%;
+  background: currentColor;
+  box-shadow: 0 0 0 3px rgba(0, 198, 223, 0.18);
+}
+
+/* ── Tag / eyebrow ─────────────────────────────────────── */
+.ev-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--ev-muted);
+}
+.ev-eyebrow::before {
+  content: '';
+  width: 28px;
+  height: 1px;
+  background: var(--ev-accent);
+}
+
+/* ── Card genérica ─────────────────────────────────────── */
+.ev-card {
+  background: var(--ev-surface);
+  border: 1px solid var(--ev-line);
+  border-radius: var(--ev-radius-md);
+  padding: var(--ev-s-6);
+  transition: transform var(--ev-dur) var(--ev-ease),
+              box-shadow var(--ev-dur) var(--ev-ease);
+}
+.ev-card:hover { transform: translateY(-2px); box-shadow: var(--ev-shadow-lg); }
+
+/* Card con borde superior que se expande en hover. */
+.ev-card--accent {
+  position: relative;
+  overflow: hidden;
+}
+.ev-card--accent::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: var(--ev-accent);
+  transform: scaleX(0.35);
+  transform-origin: left;
+  transition: transform 0.4s var(--ev-ease);
+}
+.ev-card--accent:hover::before { transform: scaleX(1); }
+
+/* ── KPI (número grande + label) ───────────────────────── */
+.ev-kpi {
+  display: flex;
+  flex-direction: column;
+  gap: var(--ev-s-2);
+}
+.ev-kpi__value {
+  font-family: var(--ev-font-mono);
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: var(--ev-navy-900);
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+.ev-kpi__value--accent { color: var(--ev-accent); }
+.ev-kpi__value--cyan   { color: var(--ev-cyan); }
+.ev-kpi__value--mint   { color: var(--ev-mint); }
+.ev-kpi__label {
+  font-size: var(--ev-fs-xs);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ev-muted);
+  font-weight: 500;
+}
+
+/* ── Finding card (tarjeta de hallazgo con número grande) ── */
+/* Patrón visto en .g-item (garantías) y estadísticas de hero demos. */
+.ev-finding {
+  position: relative;
+  background: var(--ev-surface);
+  border: 1px solid var(--ev-line);
+  padding: 36px 28px 32px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  transition: all var(--ev-dur) var(--ev-ease);
+}
+.ev-finding::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: var(--ev-accent);
+  transform: scaleX(0.35);
+  transform-origin: left;
+  transition: transform 0.4s var(--ev-ease);
+}
+.ev-finding:hover { transform: translateY(-2px); box-shadow: var(--ev-shadow-lg); }
+.ev-finding:hover::before { transform: scaleX(1); }
+
+.ev-finding__num {
+  font-size: 44px;
+  font-weight: 200;
+  color: var(--ev-navy-900);
+  line-height: 1;
+  margin-bottom: 28px;
+  letter-spacing: -1.5px;
+}
+.ev-finding__num em { color: var(--ev-accent); font-style: normal; }
+
+.ev-finding__title {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--ev-navy-900);
+  line-height: 1.35;
+  margin-bottom: 12px;
+}
+.ev-finding__body {
+  font-size: 12.5px;
+  color: var(--ev-muted);
+  line-height: 1.65;
+  font-weight: 300;
+  flex: 1;
+}
+.ev-finding__body strong { color: var(--ev-navy-900); font-weight: 500; }
+
+/* ── Acordeón Q&A ──────────────────────────────────────── */
+.ev-qa details { border-bottom: 1px solid var(--ev-line); padding: 2px 0; }
+.ev-qa details:first-child { border-top: 1px solid var(--ev-line); }
+.ev-qa summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 28px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 30px;
+  transition: color 0.2s;
+}
+.ev-qa summary::-webkit-details-marker { display: none; }
+.ev-qa summary:hover { color: var(--ev-accent); }
+.ev-qa__q {
+  font-size: 17px;
+  font-weight: 400;
+  color: var(--ev-navy-900);
+  line-height: 1.4;
+  flex: 1;
+  transition: color 0.2s;
+}
+.ev-qa summary:hover .ev-qa__q { color: var(--ev-accent); }
+.ev-qa__icon {
+  flex-shrink: 0;
+  width: 28px; height: 28px;
+  display: flex; align-items: center; justify-content: center;
+  color: var(--ev-muted);
+  font-size: 20px;
+  font-weight: 200;
+  margin-top: -4px;
+  transition: all var(--ev-dur) var(--ev-ease);
+}
+.ev-qa details[open] .ev-qa__icon { transform: rotate(45deg); color: var(--ev-accent); }
+.ev-qa__a {
+  padding: 0 58px 32px 0;
+  font-size: 14.5px;
+  color: var(--ev-ink);
+  line-height: 1.75;
+  font-weight: 300;
+  max-width: 760px;
+}
+.ev-qa__a strong { color: var(--ev-navy-900); font-weight: 500; }
+
+/* ── Responsive ────────────────────────────────────────── */
+@media (max-width: 960px) {
+  .ev-btn { padding: 12px 18px; }
+  .ev-finding { padding: 28px 20px; }
+}

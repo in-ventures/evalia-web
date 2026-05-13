@@ -1,0 +1,114 @@
+/* ============================================================
+   EVALIA · BASE
+   Reset, tipografía global y utilidades compartidas.
+   Depende de tokens.css — cárgalo SIEMPRE antes que este archivo.
+   ============================================================ */
+
+/* ── Reset mínimo ──────────────────────────────────────── */
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--ev-font-body);
+  color: var(--ev-ink);
+  line-height: 1.6;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Demos llevan peso más sólido por default. */
+body.ev-demo { font-weight: 400; overflow-x: hidden; }
+
+a { color: inherit; text-decoration: none; }
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: 0;
+  background: none;
+  color: inherit;
+}
+
+img, svg { display: block; max-width: 100%; }
+
+/* ── Tipografía jerárquica ─────────────────────────────── */
+h1, h2, h3, h4 {
+  color: var(--ev-navy-900);
+  letter-spacing: -0.02em;
+  text-wrap: balance;
+}
+
+/* Énfasis en acento: <h2>Texto <em>acento.</em></h2> */
+h1 em, h2 em, h3 em, h4 em {
+  font-style: normal;
+  color: var(--ev-accent);
+  font-weight: inherit;
+}
+
+/* ── Contenedor ────────────────────────────────────────── */
+.ev-container {
+  max-width: var(--ev-container);
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* ── Sección estándar (landing) ────────────────────────── */
+.ev-section {
+  padding: var(--ev-s-10) var(--ev-pad-x);
+  position: relative;
+}
+.ev-section--alt  { background: var(--ev-bg-alt); }
+.ev-section--dark { background: var(--ev-navy-900); color: #fff; }
+
+/* ── Label de sección · "03 — línea — Etiqueta" ──────── */
+.ev-sec-label {
+  display: flex;
+  align-items: center;
+  gap: var(--ev-s-4);
+  font-size: 10px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--ev-muted);
+  font-weight: 400;
+  margin-bottom: var(--ev-s-6);
+}
+.ev-sec-label .n     { font-weight: 500; color: var(--ev-navy-900); font-size: 11px; letter-spacing: 2px; }
+.ev-sec-label .line  { flex: 0 0 56px; height: 1px; background: var(--ev-soft); }
+.ev-sec-label .label { color: var(--ev-accent); font-weight: 500; }
+
+/* Versión oscura del label. */
+.ev-section--dark .ev-sec-label       { color: rgba(255,255,255,0.6); }
+.ev-section--dark .ev-sec-label .n    { color: #fff; }
+.ev-section--dark .ev-sec-label .line { background: rgba(255,255,255,0.3); }
+
+/* ── Lede (párrafo introductorio bajo el h2) ───────────── */
+.ev-lede {
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.65;
+  color: var(--ev-muted);
+  max-width: 560px;
+  margin-top: 22px;
+}
+.ev-lede strong { color: var(--ev-navy-900); font-weight: 500; }
+
+/* ── Reveal on scroll ──────────────────────────────────── */
+.ev-reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity var(--ev-dur-slow) var(--ev-ease),
+              transform var(--ev-dur-slow) var(--ev-ease);
+}
+.ev-reveal.is-visible { opacity: 1; transform: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  .ev-reveal { opacity: 1; transform: none; }
+  * { animation: none !important; transition: none !important; }
+}
+
+/* ── Responsive base ───────────────────────────────────── */
+@media (max-width: 960px) {
+  .ev-section { padding-left: var(--ev-pad-x-sm); padding-right: var(--ev-pad-x-sm); }
+}

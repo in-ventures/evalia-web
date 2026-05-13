@@ -1,0 +1,13 @@
+{
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "ignorePatterns": [
+    "lib/_landing_*",
+    "lib/page-content-*.ts",
+    ".next",
+    "node_modules"
+  ],
+  "rules": {
+    "@next/next/no-img-element": "off",
+    "@typescript-eslint/no-unused-vars": ["error", { "argsIgnorePattern": "^_", "varsIgnorePattern": "^_" }]
+  }
+}

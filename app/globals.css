@@ -1,0 +1,19 @@
+/* ============================================================
+   EVALIA · GLOBAL STYLES (Next.js layer)
+   Los CSS del sistema de diseño se importan vía ES module en
+   app/layout.tsx, no aquí, para evitar problemas de resolución
+   de @import en Next.js cuando los archivos viven fuera de /app.
+   Este archivo es solo para reglas globales adicionales.
+   ============================================================ */
+
+/* Smooth scroll para navegación con anclas */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

@@ -1,0 +1,377 @@
+﻿proyecto,id_expediente,tipo,estado,region,hito_pre_adenda,tiene_icsara,n_pacs,n_adendas,n_icsaras,dias_ingreso_a_admisibilidad,dias_admisibilidad_a_solicitud,dias_solicitud_a_icsara1,dias_icsara1_a_pac1,dias_pre_adenda_a_adenda1,dias_solicitud_a_ice,dias_ultima_adenda_a_ice,dias_ice_a_rca,dias_totales_ingreso_a_rca,dias_habiles_ingreso_a_admisibilidad,dias_habiles_admisibilidad_a_solicitud,dias_habiles_solicitud_a_icsara1,dias_habiles_icsara1_a_pac1,dias_habiles_pre_adenda_a_adenda1,dias_habiles_solicitud_a_ice,dias_habiles_ultima_adenda_a_ice,dias_habiles_ice_a_rca,dias_habiles_totales_ingreso_a_rca
+Proyecto Ciclón Exploradora,2155609426,EIA,No calificado,Región de Antofagasta,,False,0,0,0,8,0,,,,,,,,5,0,,,,,,,
+Parque Eolico Wayra (primer ingreso),2155483400,EIA,Desistido,Región de Antofagasta,PAC,True,1,1,1,7,0,87,21,347,,,,,5,0,60,15,235,,,,
+Aguas Marítimas (tercer ingreso),2155242272,EIA,En Calificación (Activo),Región de Antofagasta,PAC,True,2,3,3,6,0,85,24,642,,,,,4,0,60,17,436,,,,
+Aguas Marítimas (segundo ingreso),2155217256,EIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Plan de Reducción de Extracciones en el Salar de Atacama,2154490427,EIA,En Calificación (Activo),Región de Antofagasta,PAC,True,2,3,3,7,0,85,91,202,,,,,5,0,60,63,136,,,,
+Aguas Marítimas (primer ingreso),2154810655,EIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Complejo Tecnológico NorQuim para la Producción y Almacenamiento de Metanol,2168003485,EIA,En Calificación (Activo),Región de Antofagasta,,False,0,0,0,6,0,,,,,,,,4,0,,,,,,,
+"Modificación de la Operación Actual, Proyecto TED: Transición Hacia Extracción Directa de Litio",2168003562,EIA,En Calificación (Activo),Región de Antofagasta,,False,0,0,0,7,0,,,,,,,,5,0,,,,,,,
+Continuidad Operacional Minera El Abra y Desarrollo de Planta Concentradora con Transición Hídrica a Agua Desalada,2167925893,EIA,En Calificación (Activo),Región de Antofagasta,,False,0,0,0,7,0,,,,,,,,5,0,,,,,,,
+Continuidad del Proceso de Lixiviación y Adecuaciones al Proyecto Minero Distrito Sierra Gorda,2167333401,EIA,En Calificación (Activo),Región de Antofagasta,,False,0,0,0,7,0,,,,,,,,5,0,,,,,,,
+Ampliación y Mejoras en Planta de Procesamiento de Minerales Las Luces,2165983838,EIA,En Calificación (Suspendido),Región de Antofagasta,PAC,True,1,0,1,9,0,88,29,,,,,,5,0,60,19,,,,,
+"Proyecto Híbrido Solar, Eólico y de Almacenamiento de Energía Llanura Solar",2166050386,EIA,En Calificación (Suspendido),Región de Antofagasta,PAC,True,1,0,1,3,0,89,48,,,,,,3,0,60,31,,,,,
+"Proyecto Híbrido Solar, Eólico y de Almacenamiento de Energía Llanura Solar",2165799585,EIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Proyecto Minero Tovaku,2165803565,EIA,En Calificación (Suspendido),Región de Antofagasta,PAC,True,1,1,2,6,0,86,48,42,,,,,4,0,59,32,28,,,,
+Parque Híbrido Eólico y Solar Vientos de Taltal,2164484061,EIA,En Calificación (Suspendido),Región de Antofagasta,PAC,True,1,1,2,6,0,87,26,199,,,,,4,0,60,17,135,,,,
+Continuidad Operacional y Transición Hídrica Proyecto Minero División Gabriela Mistral,2163929543,EIA,En Calificación (Suspendido),Región de Antofagasta,PAC,True,1,1,2,7,0,85,23,196,,,,,4,0,60,17,132,,,,
+Parque Eólico y Solar Thayari,2163860140,EIA,En Calificación (Suspendido),Región de Antofagasta,PAC,True,1,1,2,6,0,81,45,206,,,,,3,0,58,29,141,,,,
+INNA - Proyecto Integrado de Infraestructura Energética para la Generación,2163335618,EIA,Desistido,Región de Antofagasta,PAC,True,1,0,1,7,3,84,87,,,,,,4,1,59,60,,,,,
+Continuidad Operacional Mina Las Luces y Modificación Método de Explotación,2163855776,EIA,En Calificación (Suspendido),Región de Antofagasta,PAC,True,1,1,2,4,0,88,62,192,,,,,4,0,60,42,131,,,,
+"Central de Bombeo Paposo para almacenamiento, generación y transporte de energía",2162293769,EIA,No calificado,Región de Antofagasta,,False,0,0,0,4,0,,,,,,,,4,0,,,,,,,
+Central de Bombeo Paposo,2162064165,EIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Proyecto Volta - Planta de Hidrógeno y Amoníaco Verde,2161262741,EIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,6,0,89,21,297,642,91,15,663,4,0,60,15,203,436,62,10,450
+Parque Híbrido Vientos del Desierto,2160610294,EIA,Desistido,Región de Antofagasta,PAC,True,1,0,1,6,0,85,35,,,,,,3,0,59,24,,,,,
+Parque Eólico Wayra,2160034555,EIA,Aprobado,Región de Antofagasta,PAC,True,2,3,3,8,0,90,37,231,847,69,22,877,4,0,60,25,159,574,46,16,594
+Desarrollo Futuro DMH,2159674786,EIA,Aprobado,Región de Antofagasta,PAC,True,2,3,3,7,0,93,109,114,882,98,22,911,5,0,61,74,79,596,66,16,617
+Extensión de vida útil con transición hídrica - Compañía Minera Zaldívar,2159410455,EIA,Aprobado,Región de Antofagasta,PAC,True,2,3,3,8,0,89,23,162,679,55,13,700,4,0,60,16,111,461,37,9,474
+Extensión El Way Este,2158996386,EIA,Aprobado,Región de Antofagasta,PAC,True,2,3,3,7,1,86,25,219,812,57,24,844,5,1,59,17,148,551,39,17,574
+Parque Híbrido Pampas,2158632264,EIA,Aprobado,Región de Antofagasta,PAC,True,1,3,3,7,0,86,19,158,536,64,24,567,5,0,60,13,106,365,43,16,386
+Adecuación Operacional Spence,2158456424,EIA,Aprobado,Región de Antofagasta,PAC,True,1,3,3,6,0,85,16,160,680,56,22,708,4,0,59,12,108,462,38,14,480
+AMPLIACIÓN DE LA EXPLOTACIÓN SUBTERRÁNEA MINA CHIQUILLA CHICA Y DE LA CONTINUIDAD OPERACIONAL DE FAENA MINERA EL PEÑÓN,2167733127,DIA,En Calificación (Activo),Región de Antofagasta,,False,0,0,0,7,0,,,,,,,,5,0,,,,,,,
+"Nueva Planta Concentradora, obras eléctricas, actualización movimiento mina e implementación de obras complementarias en Minera Escondida",2167965265,DIA,En Calificación (Activo),Región de Antofagasta,,False,0,0,0,2,0,,,,,,,,2,0,,,,,,,
+Pozo de Áridos Explonorte,2167913597,DIA,En Calificación (Activo),Región de Antofagasta,,False,0,0,0,7,0,,,,,,,,5,0,,,,,,,
+Modificación Terminal Interacid Aumento de Capacidad de Almacenamiento de Ácido Sulfúrico,2167683452,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,6,0,42,,,,,,,4,0,30,,,,,,
+Parque Fotovoltaico Elena 2,2167655014,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,5,0,42,,,,,,,3,0,30,,,,,,
+Modificación Terminal Mejillones Terquim,2167491318,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,7,0,42,,,,,,,5,0,30,,,,,,
+Mejoramiento de la Fibra Óptica del Proyecto Sistema de Transmisión 500 kV Mejillones Cardones,2167323838,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,2,0,42,,,,,,,2,0,30,,,,,,
+Regularización de instalaciones complementarias a la operación del Proyecto Planta desalinizadora y suministro de agua industrial. Modificación de RCA 217/2017,2167503858,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,7,0,42,,,,,,,5,0,30,,,,,,
+"Depósito de seguridad de Residuos Peligrosos, no peligrosos y Centro de reciclaje",2167445096,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,3,0,42,,,,,,,3,0,30,,,,,,
+Parque Fotovoltaico y Línea de Transmisión para el Abastecimiento de Instalaciones SQM,2166736529,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,4,0,43,,,,,,,2,0,30,,,,,,
+Parque Fotovoltaico Ckoirama Solar,2167301070,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,5,0,44,,,,,,,3,0,30,,,,,,
+"Depósito de seguridad de Residuos Peligrosos, no peligrosos y Centro de reciclaje",2167312915,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Conversión a gas natural y mejoras operacionales al Proyecto Central Térmica Andino del Complejo Termoeléctrico Mejillones,2166915385,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,4,0,44,,,,,,,2,0,30,,,,,,
+Aumento de Capacidad Diaria de Producción de la Planta MSMR La Negra,2167255967,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,6,0,44,,,,,,,4,0,30,,,,,,
+Sistema de Almacenamiento de Energía BESS y Línea de Transmisión - Imilac,2167246311,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,7,0,43,,,,,,,4,0,29,,,,,,
+Mejoramiento de la Fibra Óptica del Proyecto Sistema de Transmisión 500 kV Mejillones Cardones,2166756354,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Parque Fotovoltaico Ckoirama Solar,2166819297,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Extensión Vida Útil Compañía Minera Lomas Bayas 2038,2166889895,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,7,0,45,,,,,,,5,0,30,,,,,,
+Ampliación Vertedero de Disposición Residuos Sólidos No Peligrosos Manjarcito - RECIMAT,2166682622,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,7,0,42,,,,,,,4,0,29,,,,,,
+Extensión del Acueducto Planta de Tratamiento de Aguas Servidas Antofagasta Econssa para el Abastecimiento de Agua Tratada a Compañía Minera Lomas Bayas,2166612801,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,6,0,44,,,,,,,4,0,30,,,,,,
+"Optimización Operacional en Pila de Lixiviación de Sulfuros y Planta de Emulsión Matriz; Nuevas Obras Eléctricas, Planta de Tratamiento de Aguas Servidas, Relleno Sanitario, Sitio de Empréstito y Obras Auxiliares en Minera Escondida",2166423458,DIA,En Calificación (Activo),Región de Antofagasta,PAC,True,1,1,1,6,0,43,87,16,,,,,4,0,30,58,12,,,,
+Modificación Centro de Residuos de Mejillones,2166304646,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,0,1,6,0,47,,,,,,,4,0,30,,,,,,
+EXPLORER,2166173070,DIA,Otro,Región de Antofagasta,,False,0,0,0,7,,,,,,,,,5,,,,,,,,
+Sistema de Almacenamiento de Energía Águila Mora,2166187544,DIA,En Calificación (Activo),Región de Antofagasta,ICSARA,True,0,2,2,6,0,46,,80,,,,,4,0,30,,54,,,,
+Prospección Minera Proyecto Cachinal,2165689990,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,1,2,6,0,43,,149,,,,,3,0,30,,101,,,,
+Optimización al Sistema de Distribución de Agua Potable en el Sector Norte de la ciudad de Antofagasta,2165678467,DIA,En Calificación (Activo),Región de Antofagasta,ICSARA,True,0,1,1,5,0,43,,203,,,,,3,0,29,,139,,,,
+Prospección Minera Proyecto Capricornio,2165488809,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,1,2,7,0,46,,107,,,,,5,0,30,,73,,,,
+Continuidad Operacional Planta Cerro Dominador,2165314413,DIA,En Calificación (Activo),Región de Antofagasta,ICSARA,True,0,2,2,7,0,43,,155,,,,,4,0,30,,105,,,,
+Parque Fotovoltaico con capacidad de almacenamiento Valle de las Estrellas,2163869691,DIA,En Calificación (Suspendido),Región de Antofagasta,ICSARA,True,0,1,2,4,0,46,,206,,,,,4,0,30,,140,,,,
+Nueva Línea de Alta Tensión 1x220 kV para Soporte de Suministro Eléctrico Minera Spence,2165032673,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,8,0,46,,67,203,28,27,238,5,0,30,,47,138,19,18,161
+CENTRO DE ALMACENAMIENTO DE SUSTANCIAS PELIGROSAS DEL NORTE,2163973518,DIA,Rechazado,Región de Antofagasta,ICSARA,True,0,2,2,8,0,44,,77,309,26,13,330,5,0,30,,52,210,18,9,224
+"Modificaciones Operacionales en Planta Concentradora Laguna Seca y Nueva Línea Eléctrica Asociada, al Interior de Minera Escondida",2164534221,DIA,Aprobado,Región de Antofagasta,ICSARA,True,1,2,2,7,0,42,107,72,189,26,28,224,5,0,29,73,49,129,18,18,152
+Optimización Planta Recuperadora de Metales,2164490479,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,1,1,6,0,42,,79,176,55,26,208,4,0,29,,54,120,37,16,140
+"Sistema de Almacenamiento de Energía (BESS) en Subestación Eléctrica Los Changos, Ríos de Ribagorda",2164450260,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,2,0,42,,118,280,24,27,309,2,0,30,,79,191,18,18,211
+"Sistema de Almacenamiento de Energía (BESS) en Subestación Eléctrica El Tesoro, Ríos de Tudela",2164450174,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,2,0,41,,119,320,32,22,344,2,0,29,,80,216,19,16,234
+Construcción y operación de seis Polvorines para almacenamiento de productos explosivos en Planta Río Loa de Enaex Servicios S.A.,2163976571,DIA,En Calificación (Activo),Región de Antofagasta,ICSARA,True,1,2,2,3,0,41,217,211,,,,,3,0,29,146,143,,,,
+Proyecto Modificación y continuidad operacional Rajo Mirador y El Llano con aumento de capacidad Depósito Ripios Tesoro. Minera Centinela,2163763372,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,4,0,41,,153,409,32,,,4,0,29,,103,279,22,,
+"Sistema de Almacenamiento de Energía (BESS) en Subestación Eléctrica El Tesoro, Ríos de Tudela",2164331791,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+"Sistema de Almacenamiento de Energía (BESS) en Subestación Eléctrica Los Changos, Ríos de Ribagorda",2164331876,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Prospección Minera para la caracterización del deposito de minerales Cachorro.,2164186032,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,42,,112,267,26,24,297,4,0,30,,76,183,18,17,204
+Parque fotovoltaico con capacidad de almacenamiento Gaviota Solar,2164246345,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,42,,140,314,26,33,353,4,0,30,,95,215,18,20,239
+"Ampliación Campaña de Sondajes de Exploración, El Abra",2164081430,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,6,0,42,96,31,288,27,26,320,4,0,30,65,22,198,19,17,219
+Parque Fotovoltaico con capacidad de almacenamiento Gaviota Solar,2164102638,DIA,Otro,Región de Antofagasta,,False,0,0,0,6,,,,,,,,,4,,,,,,,,
+Proyecto Minero de Cobre Óxidos Marimaca,2163952036,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,7,0,42,130,30,299,23,27,333,4,0,30,88,21,205,17,18,227
+Modificación Pila de Lixiviación Sulfolix El Abra,2163859477,DIA,Aprobado,Región de Antofagasta,PAC,True,2,2,2,7,0,44,76,43,267,23,26,300,5,0,30,54,28,183,17,16,204
+Modificación de la Etapa II del Parque Eólico Antofagasta,2163775189,DIA,Aprobado,Región de Antofagasta,ICSARA,True,1,2,2,6,0,46,149,130,273,28,26,305,4,0,30,103,91,187,19,16,207
+Continuidad Operacional y Modificaciones Proyecto Ecometales,2163780303,DIA,Aprobado,Región de Antofagasta,PAC,True,2,2,2,6,0,44,124,11,345,27,27,378,4,0,30,86,8,236,18,18,258
+Continuidad Operacional y Modificaciones Proyecto EcoMetales,2163678423,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Explotación Mina Aguilucho,2163480685,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,5,0,41,,127,317,29,25,347,3,0,29,,88,217,19,17,237
+"Extensión vida útil y mejoras operativas Unidad 3, Central Térmica Mejillones",2163247837,DIA,Aprobado,Región de Antofagasta,PAC,True,2,2,2,10,0,42,108,41,367,27,25,402,4,0,30,76,27,252,18,17,273
+Modificación de las Instalaciones productivas y transporte de nitratos faena minera Coya Sur,2163446141,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,7,0,44,,146,330,26,26,363,5,0,30,,101,226,18,16,247
+Bodegas Sustancias Peligrosas FG,2163245108,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,5,0,44,,188,352,25,24,381,3,0,30,,129,240,17,16,259
+Modificación Faena Minera Pampa Blanca mediante la Incorporación de nueva área de acopio de sales de descarte,2163225770,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,44,,78,269,28,25,300,4,0,30,,54,185,19,16,205
+Nuevos Polvorines Planta Río Loa,2162900591,DIA,Otro,Región de Antofagasta,,False,0,0,0,9,,,,,,,,,2,,,,,,,,
+"Nueva Subestación Eléctrica Seccionadora Llullaillaco y Línea de Seccionamiento, Ruta 5 Norte Km 1.207",2163217753,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,3,0,47,,91,260,31,25,288,3,0,30,,61,176,21,16,195
+Construcción Línea de Transmisión Eléctrica Soterrada Alternativa para la Planta Desaladora Antofagasta,2163156714,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,3,0,45,,64,198,26,22,223,1,0,30,,43,135,18,16,152
+"Nueva Subestación Eléctrica Seccionadora Llullaillaco y Línea de Seccionamiento, Ruta 5 Norte Km 1.207",2162750184,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Bodegas Sustancias Peligrosas FG,2163034359,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Construcción Línea de Transmisión Eléctrica Soterrada Alternativa para la Planta Desaladora Antofagasta,2163075467,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Nuevos Polvorines Planta Río Loa,2162701869,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Transporte Terrestre de Óxido cálcico en la Región de Antofagasta: Incremento en la Frecuencia,2162687606,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,43,,83,227,22,22,255,4,0,30,,54,155,16,16,175
+Parque Fotovoltaico Altos del Sol,2162563843,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,10,0,43,,93,247,23,22,279,5,0,30,,62,169,17,16,190
+"Envasado, Carguío y Despacho de Ácido Nítrico",2162602850,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,43,,123,330,27,25,361,3,0,30,,81,225,18,16,244
+Modificación de instalaciones de Antofagasta Terminal Internacional: Habilitación de zona de acopios transitorios de contenedores con mercancías peligrosas,2162572486,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,7,0,44,,230,400,26,22,429,5,0,30,,157,271,17,16,292
+Implementación de Sistema de Electrificación de Camiones Mineros en Escondida Norte,2162229068,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,44,,70,199,23,22,227,4,0,30,,47,134,16,16,154
+Polvorines Planta Río Loa,2162437217,DIA,Otro,Región de Antofagasta,,False,0,0,0,7,,,,,,,,,5,,,,,,,,
+Aumento Vida Útil Áreas de Lixiviación Sulfuros Baja Ley División Chuquicamata,2162192342,DIA,Aprobado,Región de Antofagasta,PAC,True,2,2,2,6,0,44,105,83,513,23,25,544,4,0,30,69,57,348,16,17,369
+Actualización proyecto fotovoltaico La Sierra y modificación línea de evacuación eléctrica,2162162147,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,5,0,43,,82,242,28,23,270,2,0,30,,53,162,18,17,181
+Parque Fotovoltaico Zaldivar,2162020978,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,7,0,39,,68,231,27,36,274,5,0,27,,46,155,18,25,185
+Continuidad Operacional Mina Barreal Seco,2161876818,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,6,0,44,193,28,384,28,22,412,4,0,30,129,19,260,18,16,280
+Continuidad Operacional Central Térmica Taltal,2161780033,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,3,0,46,156,35,369,28,26,398,3,0,30,104,25,250,19,16,269
+"ESTACION DE TRANSFERENCIA Y CENTRO LOGISTICO DE CARGA, BODEGAS Y ALMACENAMIENTO DE SUSTANCIAS PELIGROSAS",2161911759,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,46,,191,400,25,25,431,4,0,30,,129,271,18,16,291
+Explotación Mina Inesperada,2161844439,DIA,Desistido,Región de Antofagasta,ICSARA,True,0,0,1,3,0,46,,,,,,,3,0,30,,,,,,
+ESTACION DE TRANSFERENCIA Y CENTRO LOGISTICO DE CARGA Y BODEGAS,2161787884,DIA,Otro,Región de Antofagasta,,False,0,0,0,7,,,,,,,,,5,,,,,,,,
+Modificación de proyecto Parque Eólico Horizonte,2161569727,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,8,0,45,142,21,383,27,23,414,5,0,30,95,15,260,18,16,281
+Explotación Mina Inesperada,2161776506,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+TRANSPORTE DE ÁCIDO SULFÚRICO EN TRACTOCAMIONES HACIA MINERA ESCONDIDA Y MINERA ZALDÍVAR DESDE PUNTOS DE DESPACHO DE LA REGIÓN DE ANTOFAGASTA,2161233608,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,42,,317,486,28,25,517,4,0,30,,214,332,19,16,352
+Parque Fotovoltaico Los Durmientes,2161095944,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,5,0,42,85,271,542,25,24,571,3,0,30,58,183,370,18,16,389
+Obras Complementarias y Ajustes Operacionales Mina Chuquicamata Subterránea,2161051918,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,5,0,42,,115,309,30,22,336,3,0,30,,79,210,20,16,229
+Reúso de infraestructura de agua industrial,2161113857,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,4,0,42,,106,238,26,28,270,2,0,30,,73,164,18,17,183
+Modificaciones al Parque Eólico Lomas de Taltal,2160888313,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,8,0,41,91,15,279,30,25,312,5,0,29,63,10,190,19,15,210
+Arena BESS,2160777918,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,5,0,44,91,28,247,23,21,273,3,0,30,63,19,169,16,15,187
+Actualización Planta Recuperadora de Metales,2160761683,DIA,No calificado,Región de Antofagasta,,False,0,0,0,1,0,,,,,,,,1,0,,,,,,,
+Planta de Producción de Hidrógeno Verde para el Distrito Minero de Calama,2160619522,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,2,0,44,,209,615,26,22,639,2,0,30,,143,418,17,16,436
+Continuidad Operacional Central Térmica Atacama,2160483691,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,5,0,69,,70,239,23,22,266,3,0,46,,49,163,16,16,182
+Modificación Línea de Transmisión 2 X 220 kV Crucero - El Abra,2160461467,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,4,0,45,,88,342,28,28,374,2,0,30,,61,232,20,18,252
+Obras Complementarias y Ajustes Operacionales Mina Chuquicamata Subterránea,2160526080,DIA,Desistido,Región de Antofagasta,,False,0,0,0,5,0,,,,,,,,3,0,,,,,,,
+Ampliación de Zona de Extracción en Pozo Lastrero 2,2160304431,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,47,,94,271,28,21,298,4,0,30,,66,183,19,15,202
+"Cultivo Comercial de Dorado (Seriola lalandi), en el Sector Punta Tórtolas 2, al Oeste de Punta Tórtolas, Comuna de Tal Tal, Provincia de Antofagasta - Región de Antofagasta PERT N° 212024005",2160267987,DIA,No calificado,Región de Antofagasta,,False,0,0,0,3,0,,,,,,,,3,0,,,,,,,
+"Proyecto de ampliación del depósito de ripios y continuidad operacional de Planta Taltal, ENAMI",2159850695,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,6,0,48,129,28,479,25,26,511,4,0,31,88,20,323,18,17,344
+Modificación Centro de Residuos de Mejillones,2159957804,DIA,Desistido,Región de Antofagasta,,False,0,0,0,22,0,,,,,,,,14,0,,,,,,,
+Obras Eléctricas y Área para Extracción de Áridos al Interior de Minera Escondida,2159756862,DIA,Aprobado,Región de Antofagasta,ICSARA,True,2,2,2,15,0,45,124,98,234,25,27,276,10,0,31,82,64,159,18,18,187
+"Cultivo comercial de dorado (Seriola lalandi), en el sector Punta Colipí, al suroeste de Punta Colipi, comuna de Tocopilla, provincia de Tocopilla - Región de Antofagasta. PERT N° 212021001",2159829825,DIA,Otro,Región de Antofagasta,,False,0,0,0,6,,,,,,,,,4,,,,,,,,
+"Cultivo comercial de dorado (seriola lalandi), en el sector Punta San Sedro, al suroeste de Punta San Pedro, comuna de Tal Tal, provincia de Antofagasta - región de Antofagasta. pert n° 212024002",2159830364,DIA,Otro,Región de Antofagasta,,False,0,0,0,6,,,,,,,,,4,,,,,,,,
+"Cultivo comercial de dorado (seriola lalandi), en el sector Punta Lavata 2, al suroeste de Punta Lavata, comuna de Tal Tal, provincia de Antofagasta - región de Antofagasta. pert n° 212024007",2159831099,DIA,Otro,Región de Antofagasta,,False,0,0,0,6,,,,,,,,,4,,,,,,,,
+"Incremento de la Autonomía para asegurar la Disponibilidad de Combustibles, Planta Mejillones",2159622374,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,5,0,43,,174,422,35,21,448,3,0,29,,118,285,22,13,301
+"CULTIVO COMERCIAL DE DORADO (Seriola lalandi), EN EL SECTOR PUNTA LAVATA 1, AL SUROESTE DE PUNTA LAVATA, COMUNA DE TAL TAL, PROVINCIA DE ANTOFAGASTA - REGIÓN DE ANTOFAGASTA. PERT N° 212024003",2159830715,DIA,Otro,Región de Antofagasta,,False,0,0,0,5,,,,,,,,,3,,,,,,,,
+Exploraciones Aida,2159533482,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,5,0,48,137,81,479,32,40,524,3,0,31,93,56,323,22,26,352
+Abastecimiento Agua de Mar Minera Franke,2159534351,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,43,,76,273,26,24,303,4,0,30,,49,185,18,16,205
+Bodegas de Sustancias Peligrosas Logística FG,2159585865,DIA,No calificado,Región de Antofagasta,,False,0,0,0,7,0,,,,,,,,5,0,,,,,,,
+Transporte de ácido sulfúrico en tractocamiones hacia Minera Escondida y Minera Zaldivar desde puntos de despacho de la región de Antofagasta,2159481958,DIA,No calificado,Región de Antofagasta,,False,0,0,0,8,0,,,,,,,,4,0,,,,,,,
+CONSOLIDACIÓN PATIO ÁCIDO NITRICO Y AVANCES TECNOLÓGICOS PANNA 4,2159314402,DIA,No calificado,Región de Antofagasta,,False,0,0,0,6,0,,,,,,,,4,0,,,,,,,
+"Almacenamiento de Sustancias Peligrosas Clase 6 y 8, Bodegas Dixie, Antofagasta",2159310575,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,46,,28,204,22,26,236,4,0,30,,20,137,15,16,157
+"Traslado y Reposición Subestación Eléctrica Chamy, División Radomiro Tomic",2159178119,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,7,0,43,79,35,326,29,24,357,5,0,29,54,24,222,20,15,242
+Prospecciones Avanzadas Cachorro,2159214715,DIA,Desistido,Región de Antofagasta,,False,0,0,0,5,0,,,,,,,,3,0,,,,,,,
+"Actualización de Recursos y Reserva Parte II, Explotación Subterránea Pampa Augusta Victoria de Faena Minera El Peñón",2158921029,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,42,,73,241,28,26,273,4,0,29,,50,163,19,16,183
+Aumento capacidad de almacenamiento de combustible Distrito Centinela,2158952386,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,4,0,44,,49,219,28,21,244,2,0,30,,33,147,18,15,164
+Abastecimiento Agua de Mar Minera Franke,2158816222,DIA,Desistido,Región de Antofagasta,,False,0,0,0,7,0,,,,,,,,5,0,,,,,,,
+Ajustes Operacionales Área Mina,2158438731,DIA,Aprobado,Región de Antofagasta,ICSARA,True,1,2,2,6,0,43,173,112,301,34,21,328,4,0,29,117,77,202,22,15,221
+Ampliación en Subestación Frontera y Seccionamiento Línea 2x220 Encuentro-Laguna,2158862523,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,43,,33,176,24,20,202,4,0,29,,23,121,18,12,137
+PROSPECCIONES PAMPA PACIENCIA,2158864741,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,5,0,43,,88,264,35,24,293,3,0,29,,60,177,24,16,196
+Parque Fotovoltaico Cristales,2158765112,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,6,0,44,109,59,349,25,22,377,4,0,30,74,40,236,17,16,256
+Proyecto Prospecciones Aida,2158519340,DIA,Desistido,Región de Antofagasta,,False,0,0,0,6,0,,,,,,,,4,0,,,,,,,
+Ampliación en SE Ana María y Seccionamiento Línea 2x220 kV Frontera-María Elena,2158438113,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,42,,95,249,30,20,275,4,0,30,,67,172,20,13,189
+Habilitación de Puntos de Monitoreo para variables Hídricas,2158453751,DIA,Aprobado,Región de Antofagasta,PAC,True,2,2,2,1,0,42,80,116,367,26,17,385,1,0,30,54,81,248,17,13,262
+Ampliación en SE Frontera y Seccionamiento Línea 2x220 kV Encuentro-Lagunas,2158429244,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Remoción y reprocesamiento de relaves desde el Tranque Hamburgo,2158412419,DIA,Desistido,Región de Antofagasta,,False,0,0,0,6,0,,,,,,,,4,0,,,,,,,
+Actualización Plan de Mantenimiento de Hábitat en Botadero Existente,2158040789,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,7,0,42,,279,513,23,21,541,5,0,30,,189,351,16,14,370
+Transporte Ferroviario en Región de Antofagasta,2157970182,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,10,0,38,,85,214,29,27,251,5,0,28,,59,150,21,18,173
+Parque Fotovoltaico Terrazas,2157762502,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,7,0,42,99,138,477,25,25,509,5,0,29,69,93,326,18,16,347
+"Actualización del consumo, almacenamiento y transporte de sustancias peligrosas",2157858453,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,42,,57,244,26,33,283,4,0,29,,41,168,17,21,193
+Ampliación en SE Frontera y Seccionamiento Línea 2x220 kV Encuentro-Lagunas,2157928736,DIA,Otro,Región de Antofagasta,,False,0,0,0,5,,,,,,,,,3,,,,,,,,
+Ampliación en SE Ana María y Seccionamiento Línea 2x220 kV Frontera-María Elena,2157947195,DIA,Otro,Región de Antofagasta,,False,0,0,0,5,,,,,,,,,3,,,,,,,,
+Aumento Movimientos Mina DGM,2157616419,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,5,0,43,,57,308,33,23,336,3,0,29,,41,211,21,16,230
+Tendido segundo circuito Línea 2x220 kV Nueva Chuquicamata - Calama,2157658825,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,5,0,43,,127,288,27,23,316,3,0,29,,89,199,18,15,217
+Parque Eólico Pampa Fidelia,2157238670,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,4,0,44,,144,297,28,31,332,2,0,30,,100,206,20,18,226
+Parque Fotovoltaico Parina Solar,2157664677,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,6,0,44,69,108,508,28,26,540,4,0,30,49,74,348,19,17,369
+Terminal de Mantención Mejillones,2157155483,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,7,0,43,,107,318,29,21,346,5,0,30,,75,219,19,14,238
+"Saneamiento ambiental de suelos contaminados, Sector EXFFCC Taltal",2157370529,DIA,Desistido,Región de Antofagasta,,False,0,0,0,27,0,,,,,,,,17,0,,,,,,,
+Proyecto Alba,2157280115,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,3,0,46,81,81,396,32,22,421,3,0,30,57,55,268,20,15,286
+Parque Fotovoltaico Parina Solar,2157311911,DIA,Otro,Región de Antofagasta,,False,0,0,0,2,,,,,,,,,2,,,,,,,,
+Línea Eléctrica Bypass Antofagasta,2157271364,DIA,Desistido,Región de Antofagasta,ICSARA,True,0,0,1,3,0,46,,,,,,,3,0,30,,,,,,
+Saneamiento ambiental de suelos contaminados  Sector EX FFCC Taltal,2156894690,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Extracción Diatomea,2156450559,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Ampliación de capacidad de almacenamiento de GLP Planta Antofagasta,2156825651,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,4,0,45,,134,304,30,25,333,2,0,30,,92,207,20,17,226
+"Aumento de Capacidad Planta Concentradora Mantos Blancos, Fase II",2156796656,DIA,Desistido,Región de Antofagasta,PAC,True,1,2,2,5,0,47,154,39,,,,,3,0,30,106,28,,,,
+Ampliación de capacidad de almacenamiento de GLP Planta Antofagasta,2156659675,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Actividades Mineras en Período 2024/2025,2156485242,DIA,Desistido,Región de Antofagasta,,False,0,0,0,6,0,,,,,,,,4,0,,,,,,,
+Centro de Recepción y Disposición Final de Biosólidos,2156475386,DIA,Desistido,Región de Antofagasta,ICSARA,True,0,2,2,6,0,41,,119,321,23,28,355,4,0,28,,79,219,17,18,241
+Proyecto Referencial Ampliación y Mejoramiento Aeropuerto Andrés Sabella,2156267827,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,3,0,44,,180,417,22,24,444,1,0,30,,120,285,16,15,301
+Plan de Desarrollo Michilla,2154794710,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,5,0,44,,230,504,26,27,536,3,0,30,,156,341,16,18,362
+Ajuste Línea de Transmisión Eléctrica Norte Parque Eólico Horizonte,2155723694,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,19,0,44,,86,287,19,16,322,13,0,30,,59,195,13,12,220
+Parque Fotovoltaico Socompa Solar,2155915115,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,5,0,43,,170,350,28,18,373,3,0,29,,115,238,19,14,255
+Transporte terrestre de ácido sulfúrico,2155689137,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,5,0,42,,72,265,26,17,287,3,0,30,,49,179,17,13,195
+Proyecto minero Comahue,2155491655,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,4,0,41,,92,318,28,22,344,4,0,29,,63,216,20,16,236
+Abastecimiento de Agua de Mar Distrito Minero Altamira,2154485075,DIA,Otro,Región de Antofagasta,,False,0,0,0,26,,,,,,,,,18,,,,,,,,
+"Almacenamiento de Sustancias Peligrosas, Clase 6 y 8, Bodegas DIXIE, Antofagasta",2155185100,DIA,Desistido,Región de Antofagasta,ICSARA,True,0,0,1,7,0,42,,,,,,,5,0,30,,,,,,
+Bodega de Sustancias Peligrosas FG,2155186708,DIA,Desistido,Región de Antofagasta,ICSARA,True,0,0,1,6,0,41,,,,,,,4,0,29,,,,,,
+Adecuación Obras Mineras para Continuidad Operacional de CMLB,2154761471,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,42,,108,316,26,23,345,4,0,30,,75,216,17,16,236
+Ajustes Constructivos a Instalaciones de Relaves Espesados,2154669144,DIA,Aprobado,Región de Antofagasta,PAC,True,1,2,2,3,0,42,60,57,369,27,19,391,3,0,30,41,39,252,18,13,268
+Proyecto Prospecciones Aida,2154471761,DIA,No calificado,Región de Antofagasta,,False,0,0,0,4,0,,,,,,,,2,0,,,,,,,
+Ampliación de capacidad de almacenamiento de Sustancias Químicas,2154670313,DIA,Aprobado,Región de Antofagasta,ICSARA,True,0,2,2,6,0,42,,149,406,28,22,434,4,0,30,,104,279,20,16,299
+Abastecimiento de Agua de Mar Distrito Minero Altamira,2154485080,DIA,Desistido,Región de Antofagasta,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Proyecto de Producción de Hidrógeno y Amoniaco Verde - H2 Magallanes,2165025085,EIA,En Calificación (Suspendido),Región de Magallanes,PAC,True,1,0,1,7,0,87,84,,,,,,5,0,60,57,,,,,
+Proyecto integral para la producción y exportación de amoniaco verde - HNH ENERGY,2162603863,EIA,En Calificación (Suspendido),Región de Magallanes,PAC,True,1,1,2,7,0,90,30,280,,,,,5,0,60,20,192,,,,
+Parque Eólico Faro del Sur,2160813317,EIA,Aprobado,Región de Magallanes,PAC,True,2,2,2,7,4,84,65,319,757,69,16,784,5,1,59,44,217,515,46,12,533
+Parque Eólico Vientos Patagónicos,2160078437,EIA,Aprobado,Región de Magallanes,PAC,True,1,2,2,10,0,91,39,346,736,68,22,768,5,0,60,29,233,500,45,15,520
+Parque Eólico Faro del Sur,2156419025,EIA,Desistido,Región de Magallanes,,False,0,0,0,7,0,,,,,,,,5,0,,,,,,,
+MEJORAMIENTO CAPACIDAD DE ATRAQUE TERMINAL MARÍTIMO DE PUERTO NATALES,2154660265,DIA,Desistido,Región de Magallanes,ICSARA,True,0,0,1,9,3,39,,,,,,,7,1,29,,,,,,
+Modernización del Sistema de Abastecimiento de Combustibles para el Aeropuerto Carlos Ibáñez del Campo en Punta Arenas,2154675550,DIA,No Admitido a Tramitación,Región de Magallanes,,False,0,0,0,7,,,,,,,,,5,,,,,,,,
+Construcción de líneas de flujo en área Jauke,2154760796,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,3,0,39,,49,209,35,18,230,3,0,27,,34,145,24,12,160
+Modernización del Sistema de Abastecimiento de Combustibles para el Aeropuerto Carlos Ibáñez del Campo en Punta Arenas,2154945526,DIA,No calificado,Región de Magallanes,,False,0,0,0,7,0,,,,,,,,5,0,,,,,,,
+Expediciones de navegación y avistamiento de fauna en el Área Marina Costera Protegida y Parque Marino Francisco Coloane,2155083191,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,3,1,40,,117,215,58,21,240,3,1,28,,80,149,41,13,166
+Fracturación Hidráulica Pozo Exploratorio Picuyo ZG-A,2155278846,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,6,1,42,,28,122,52,19,148,4,1,29,,20,85,36,13,103
+"(120137) Modificación de Proyecto Técnico, Centro de Engorda de Salmónidos, Canal Valdés, al Norte  de Caleta Fog, RCA N°009/2012",2155422524,DIA,Desistido,Región de Magallanes,ICSARA,True,0,1,2,5,1,35,,398,,,,,3,1,24,,272,,,,
+Fracturación Hidráulica PAD Rancho Grande ZG-A,2155436230,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,5,0,36,,28,107,43,19,131,3,0,25,,20,74,29,13,90
+Línea de Flujo PAD Cahuil Z/AB/AD,2155650743,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,5,3,36,,29,101,36,26,135,4,1,26,,19,71,26,17,93
+Línea de Flujo PAD Rancho Grande ZG-A,2155653010,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,5,3,36,,29,101,36,26,135,4,1,26,,19,71,26,17,93
+"PUERTO NUEVO, ENSENADA MORENO, SENO SKYRING, COMUNA DE RIO VERDE, REGIÓN DE MAGALLANES Y ANTARTICA CHILENA",2156219981,DIA,No calificado,Región de Magallanes,,False,0,0,0,13,2,,,,,,,,9,1,,,,,,,
+"Construcción de Colector de 14, Nudo Bahía Felipe a Nudo Chorrillo Cortado",2156296060,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,3,2,36,,28,98,34,26,129,1,1,25,,19,66,22,17,85
+Ampliación de Biomasa de Centro de Engorda de Salmones. Código de centro Nº 120135. Centro Punta Goddard. RCA Nº 007/2012,2156325560,DIA,Desistido,Región de Magallanes,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Ampliación de Biomasa del Centro de Engorda de Salmones. Código de Centro Nº 120135. Centro Punta Goddard. RCA Nº 007/2012,2156395867,DIA,Desistido,Región de Magallanes,PAC,True,2,0,1,7,0,42,115,,,,,,5,0,29,77,,,,,
+"Construccion Centro de Gestion de Residuos Solidos, Magallanes",2156469363,DIA,Desistido,Región de Magallanes,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Ampliación de Biomasa del Centro de Engorda de Salmones. Código de Centro Nº 120136. Centro Morgan. RCA Nº 011/2012,2156476401,DIA,Desistido,Región de Magallanes,PAC,True,2,0,1,7,0,38,116,,,,,,5,0,25,78,,,,,
+Centro de Gestión de Residuos Sólidos Tierra del Fuego,2156472061,DIA,Desistido,Región de Magallanes,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Oleoducto Golondrina-Cullen,2156499977,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,4,3,37,,30,112,45,32,151,4,1,26,,20,74,28,23,102
+Ductos para el Transporte de Agua de Formación en Sector de Tres Lagos,2156502281,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,4,3,37,,91,240,16,22,269,4,1,26,,60,164,12,15,184
+ESTIMULACIÓN HIDRÁULICA POZO JAUKE NORTE X-1,2156509016,DIA,No Admitido a Tramitación,Región de Magallanes,,False,0,0,0,4,,,,,,,,,4,,,,,,,,
+Fracturación Hidráulica de 2 PAD Cahuil,2156585533,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,5,0,34,,30,126,12,22,153,3,0,23,,20,84,8,15,102
+Fracturación Hidráulica Pozo Exploratorio Hollister A,2156585651,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,5,0,34,,30,133,16,15,153,3,0,23,,20,88,11,11,102
+Línea de Flujo PAD Estancia Rita ZG-C,2156701562,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,1,0,40,,26,98,32,21,120,1,0,26,,17,65,22,14,80
+ESTIMULACIÓN HIDRÁULICA POZO JAUKE NORTE X-1,2156697316,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,7,1,34,,59,190,15,42,240,5,1,22,,40,129,11,29,164
+Centro de Gestión de Residuos Sólidos Tierra del Fuego,2156651273,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,13,0,43,,74,271,25,15,299,8,0,29,,48,184,16,11,203
+Estimulación Hidráulica pozo Monte Aymond 34,2156813127,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,0,1,33,,59,190,16,41,232,0,1,21,,40,129,12,28,158
+CENTRAL DE GENERACIÓN DE ENERGÍA ELÉCTRICA A GAS LAS LENGAS,2156700763,DIA,No Admitido a Tramitación,Región de Magallanes,,False,0,0,0,7,,,,,,,,,5,,,,,,,,
+Extracción y Procesamiento de Áridos La Italiana,2156897452,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,6,0,41,,69,165,55,24,195,4,0,26,,46,110,38,18,132
+CENTRAL DE GENERACIÓN DE ENERGÍA ELÉCTRICA A GAS LAS LENGAS,2156957631,DIA,No calificado,Región de Magallanes,,False,0,0,0,7,0,,,,,,,,3,0,,,,,,,
+Modernización del Sistema de Abastecimiento de Combustibles para el Aeropuerto Presidente Carlos Ibáñez del Campo en Punta Arenas,2157118720,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,7,1,41,,58,181,23,22,211,3,1,26,,41,124,17,15,143
+Estimulación hidráulica pozo Ache Este 2,2157148455,DIA,Desistido,Región de Magallanes,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Producción de pozo Jauke Norte x-1,2157126830,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,8,3,32,,63,176,21,23,210,4,1,23,,42,121,15,16,142
+Regularización Empréstito San Antonio,2157169157,DIA,Desistido,Región de Magallanes,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Regularización Empréstito San Antonio,2157169111,DIA,Desistido,Región de Magallanes,ICSARA,True,0,1,2,7,0,44,,191,,,,,5,0,29,,133,,,,
+Estimulación hidráulica pozo Ache Este 2,2157169009,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,4,1,42,,59,172,20,23,200,3,1,27,,39,117,14,16,137
+Proyecto Habitacional Brisas del Estrecho,2157288407,DIA,Aprobado,Región de Magallanes,PAC,True,2,2,2,4,0,44,57,56,216,20,15,235,2,0,30,39,40,148,14,11,161
+Línea de Flujo Ensenada Baja,2157306113,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,2,0,40,,129,259,30,16,277,2,0,26,,91,177,20,12,191
+Fracturación Hidráulica PAD Estancia Rita ZG-C,2157299795,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,3,0,35,,32,83,16,19,105,3,0,23,,21,55,11,13,71
+"Centro de Gestion de Residuos Solidos, Magallanes",2156689181,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,3,0,46,,115,348,29,33,384,3,0,30,,81,237,19,20,260
+Regularización Muelle de Operaciones,2157668940,DIA,Aprobado,Región de Magallanes,PAC,True,2,2,2,8,0,36,131,204,596,42,19,623,6,0,25,90,138,407,29,12,425
+"Modificación de Biomasa del Cultivo De Salmón Atlántico, RCA 80/2016, Ces Isla Marta, Código De Centro N°120108",2158042000,DIA,Aprobado,Región de Magallanes,PAC,True,2,2,2,8,0,42,119,411,850,26,11,869,5,0,30,83,277,578,16,9,592
+Central de Generación de Energía Eléctrica a Gas Las Lengas,2158415923,DIA,Aprobado,Región de Magallanes,PAC,True,2,2,2,6,0,42,104,11,265,25,21,292,4,0,30,72,7,181,16,13,198
+Estimulación Hidráulica en pozos Jauke 6 y Jauke Sur x-1,2158721701,DIA,Desistido,Región de Magallanes,,False,0,0,0,4,0,,,,,,,,4,0,,,,,,,
+Nuevas Líneas de Flujo Sub-Bloque Cabaña Oeste,2159047450,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,4,0,41,,32,118,45,34,156,4,0,28,,20,80,32,22,106
+Fracturación Hidráulica para el Pozo Exploratorio Hemmer A,2159229582,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,7,0,37,,63,115,15,21,143,5,0,25,,44,80,11,13,98
+LINEA DE FLUJO PAD CACHAÑA ZG-B,2159235137,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,7,0,35,,28,86,23,34,127,5,0,23,,20,59,16,22,86
+Varadero Logística y Servicios Ltda.,2159439586,DIA,Desistido,Región de Magallanes,,False,0,0,0,6,,,,,,,,,4,,,,,,,,
+Nuevas Fracturas Hidráulicas en el Sub-Bloque Dorado Riquelme,2159427063,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,7,0,33,,29,89,27,22,118,5,0,21,,20,60,19,14,79
+"Puerto Nuevo, Ensenada Moreno, Seno Skyring, Comuna de Río Verde, Región de Magallanes y Antártica Chilena",2159460015,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,1,0,46,,289,542,27,22,565,1,0,30,,196,364,19,15,380
+Líneas de Flujo Cahuil Alto,2159440216,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,2,0,41,,29,125,55,22,149,2,0,27,,20,83,36,14,99
+LINEA DE FLUJO HEMMER,2159460282,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,2,0,39,,29,153,21,21,176,2,0,25,,20,101,13,15,118
+Proyecto Habitacional Fiordos del Sur 1 y 2,2159921570,DIA,No Admitido a Tramitación,Región de Magallanes,,False,0,0,0,7,,,,,,,,,5,,,,,,,,
+Proyecto Habitacional Fiordos del Sur 1 y 2,2159984452,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,0,3,44,,99,226,23,15,244,0,1,29,,66,153,16,10,164
+Ampliación Hotel Lakutaia,2160073144,DIA,Desistido,Región de Magallanes,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Extraccion y Procesamiento de Aridos Galvarino,2160220530,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,7,0,43,,59,144,42,22,173,5,0,29,,38,97,30,15,117
+Ampliación Hotel Lakutaia,2160259654,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,1,0,40,,51,171,21,16,188,1,0,26,,34,115,14,12,128
+Fracturación Hidráulica PAD Walolén ZG-A,2160345587,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,1,0,34,,29,88,25,18,107,1,0,22,,19,57,16,14,72
+Proyecto de Desarrollo Minero Fracturación Hidráulica Multipozo Cachaña ZG-B,2160700485,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,1,1,8,0,37,,26,84,21,27,119,5,0,25,,18,58,15,18,81
+REPOSICIÓN COMPLEJO FRONTERIZO RÍO DON GUILLERMO,2160941341,DIA,Aprobado,Región de Magallanes,ICSARA,True,0,2,2,8,0,40,,404,607,28,23,638,5,0,28,,275,414,19,15,434
+Parque Fotovoltaico Rinconada Solar,2166000484,EIA,En Calificación (Suspendido),Región Metropolitana,PAC,True,1,0,1,6,1,88,63,,,,,,3,1,59,42,,,,,
+Parque Fotovoltaico Rinconada Solar,2165628704,EIA,Desistido,Región Metropolitana,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Continuidad de Explotación Mina Caolín El Guindo,2165451075,EIA,En Calificación (Suspendido),Región Metropolitana,PAC,True,1,1,2,8,0,90,43,103,,,,,5,0,60,30,70,,,,
+"Tramo 3 Línea 9 Metro de Santiago, La Pintana Puente Alto",2165205569,EIA,En Calificación (Suspendido),Región Metropolitana,PAC,True,1,1,2,7,0,87,74,91,,,,,5,0,60,49,62,,,,
+Tramo 2 Extensión Línea 2 de Metro de Santiago,2160210345,EIA,En Calificación (Activo),Región Metropolitana,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Solución Sanitaria Las Lilas,2159078491,EIA,Aprobado,Región Metropolitana,PAC,True,1,3,3,10,1,86,75,132,940,62,33,984,5,1,60,49,89,639,43,20,665
+Urbanya Etapa 1,2157768147,EIA,Aprobado,Región Metropolitana,PAC,True,2,3,3,8,0,87,46,292,1056,63,26,1090,5,0,60,33,196,719,43,17,741
+Planta Paneles de Yeso y Ampliación Cantera Rubí,2156632310,EIA,No calificado,Región Metropolitana,,False,0,0,0,7,0,,,,,,,,5,0,,,,,,,
+PLANTA PANELES DE YESO Y AMPLIACIÓN CANTERA RUBÍ,2156421131,EIA,Desistido,Región Metropolitana,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Centro Logístico Enea,2155147128,EIA,Aprobado,Región Metropolitana,PAC,True,2,3,3,7,0,87,85,409,1092,64,24,1123,5,0,60,58,279,743,44,16,764
+Centro Logístico Lo Aguirre,2154733027,EIA,Aprobado,Región Metropolitana,PAC,True,1,3,3,2,0,87,45,288,902,56,29,933,2,0,60,33,196,616,38,20,638
+La Castellana,2154585400,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,7,0,42,,85,225,25,32,264,5,0,30,,60,157,18,20,182
+PROYECTO INMOBILIARIO DEPARTAMENTAL,2154712048,DIA,Desistido,Región Metropolitana,PAC,True,1,1,2,7,0,42,223,47,,,,,5,0,30,152,31,,,,
+Plantel de Engorda de Ganado Bovino Fundo La Cañita-Codigua,2154416694,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,7,1,40,,139,405,27,23,436,5,1,28,,96,278,19,17,301
+Parque Fotovoltaico Valentina Solar,2154770113,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,3,0,42,,59,230,23,29,262,3,0,30,,40,160,17,19,182
+Ampliación Tauretes,2154759804,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,3,0,41,,140,328,27,25,356,3,0,29,,97,224,18,16,243
+Monseñor Eyzaguirre,2154727927,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,7,0,40,,76,202,28,25,234,5,0,28,,53,141,20,16,162
+Parque Solar Fotovoltaico Los Maitenes,2154768730,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,6,0,42,,144,452,21,25,483,4,0,30,,101,312,14,16,332
+Parque Quilicura,2154813946,DIA,Aprobado,Región Metropolitana,PAC,True,1,2,2,7,0,42,145,26,371,18,26,404,5,0,30,100,17,254,14,18,277
+Proyecto Inmobiliario Franklin 352,2154960272,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,6,0,42,,58,279,22,27,312,4,0,30,,41,190,14,18,212
+EDIFICIOS VESPUCIO 4453,2154972647,DIA,Aprobado,Región Metropolitana,PAC,True,2,2,2,5,0,42,196,176,611,15,27,643,3,0,30,134,121,418,10,17,438
+Operación de Pabellones de Crianza de Cerdos y Planta de Tratamiento de Purines Las Pircas,2155120441,DIA,Desistido,Región Metropolitana,ICSARA,True,0,1,2,11,0,42,,214,,,,,7,0,30,,145,,,,
+Obras Parque Deportivo Juegos Panamericanos 2023 - Estadio Nacional,2155060157,DIA,No Admitido a Tramitación,Región Metropolitana,,False,0,0,0,7,,,,,,,,,5,,,,,,,,
+"Mejora del desempeño ambiental del sistema de tratamiento de purines mediante biodigestor anaeróbico, y riego de flora nativa de la Granja de Cerdos Porkland",2155126466,DIA,Desistido,Región Metropolitana,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Obras de Urbanización Condominio El Golf,2154980205,DIA,Renuncia RCA,Región Metropolitana,ICSARA,True,0,2,2,3,3,39,,60,368,25,25,399,3,1,29,,41,253,19,17,274
+Planta Solar Las Torres,2154986622,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,14,3,37,,77,227,28,27,271,10,1,27,,54,157,18,16,184
+Ampliación Edificios Plaza Franklin,2155027509,DIA,No calificado,Región Metropolitana,,False,0,0,0,6,0,,,,,,,,4,0,,,,,,,
+Centro Logístico Vespucio,2155132866,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,6,0,39,,59,282,27,28,316,4,0,29,,40,193,19,19,216
+Proyecto Noviciado - Peralillo,2154777991,DIA,No calificado,Región Metropolitana,,False,0,0,0,32,0,,,,,,,,22,0,,,,,,,
+Planta Solar Fotovoltaica Oro y Cielo,2155117958,DIA,No calificado,Región Metropolitana,,False,0,0,0,3,0,,,,,,,,1,0,,,,,,,
+Parque Fotovoltaico Chicha Solar,2155189414,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,3,0,39,,61,219,30,26,248,1,0,29,,42,151,20,17,169
+Data Center SCL02-SCL03,2155167505,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,3,0,41,,64,183,21,32,218,3,0,29,,45,127,14,20,150
+Vicuña Mackenna 2189,2155347709,DIA,Desistido,Región Metropolitana,ICSARA,True,0,0,1,7,0,43,,,,,,,5,0,30,,,,,,
+Prat-Eyzaguirre,2155348317,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,6,0,43,,84,225,20,23,254,4,0,30,,58,154,13,15,173
+Lo Valledor ? Mercado de Abastos y Outlet,2155431535,DIA,Desistido,Región Metropolitana,ICSARA,True,0,2,2,5,0,42,,55,,,,,3,0,29,,37,,,,
+Incorporación de unidad de osmosis inversa al tratamiento de Riles existente,2155284857,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,4,2,47,,90,239,28,25,270,2,2,32,,62,162,18,17,183
+"Mejora del desempeño ambiental del sistema de tratamiento de purines mediante biodigestor anaeróbico, y riego de flora nativa de la Granja de Cerdos Porkland",2155206896,DIA,No calificado,Región Metropolitana,,False,0,0,0,20,1,,,,,,,,14,1,,,,,,,
+"Ampliación Capacidad de Producción, Planta Quilicura",2155164437,DIA,No calificado,Región Metropolitana,,False,0,0,0,5,1,,,,,,,,3,1,,,,,,,
+Nueva Línea 2x110 Kv Alto Melipilla ? Bajo Melipilla Tendido del Primer Circuito,2155431343,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,5,1,42,,103,316,25,25,347,3,1,29,,70,215,19,17,236
+Ampliación Waykú,2155416758,DIA,Aprobado,Región Metropolitana,PAC,True,3,2,2,6,1,42,108,147,465,21,26,498,4,1,29,75,98,318,14,18,341
+RESTAURANTE PORTALES,2155586352,DIA,Desistido,Región Metropolitana,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Ampliación Packing Merquén SpA,2155513625,DIA,No Admitido a Tramitación,Región Metropolitana,,False,0,0,0,7,,,,,,,,,5,,,,,,,,
+Modificación Conjunto Armónico Oasis de Riesco,2155528774,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,7,0,43,,39,202,15,23,232,5,0,30,,25,137,11,15,157
+Actualización Planta Mamut,2155585668,DIA,Desistido,Región Metropolitana,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Proyecto Residencial La Catana,2155565609,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,6,0,43,,276,536,14,26,568,4,0,30,,188,366,8,17,387
+"Plataforma de manejo de residuos para reciclaje y valorización energética, COACTIVA SPA",2155642058,DIA,Desistido,Región Metropolitana,,False,0,0,0,6,0,,,,,,,,3,0,,,,,,,
+Ampliación y Regularización Planta IDEAL Quilicura,2155457821,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,28,0,83,,59,234,23,21,283,19,0,57,,42,159,16,15,193
+Planta Solar El Trigal,2155533156,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,19,0,42,,73,220,32,25,264,12,0,30,,51,150,22,16,178
+Extracción Mecanizada Áridos Normalizados Río Maipo Limitada,2155615655,DIA,Desistido,Región Metropolitana,ICSARA,True,0,0,1,7,0,42,,,,,,,5,0,30,,,,,,
+Actualización Planta Mamut,2155629719,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,7,0,42,,44,219,28,25,251,4,0,30,,30,149,18,16,169
+Ampliación Packing Merquén SpA,2155644628,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,6,1,41,,91,238,20,25,270,3,1,29,,62,161,13,16,181
+Parque Solar Fotovoltaico El Paico,2155646254,DIA,No Admitido a Tramitación,Región Metropolitana,,False,0,0,0,7,,,,,,,,,4,,,,,,,,
+Parque Fotovoltaico Santa Marta,2155667498,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,3,1,41,,141,349,24,26,379,3,1,29,,95,239,18,16,259
+Planta de Despelonado y Secado de Nueces,2155665051,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,4,0,42,,119,308,25,25,337,4,0,30,,80,210,19,17,231
+Centro Logístico Laguna Sur,2155638947,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,4,0,42,,84,322,21,26,352,4,0,30,,57,220,15,18,242
+Aquiluz Solar,2155644762,DIA,Aprobado,Región Metropolitana,PAC,True,5,2,2,4,0,42,95,69,322,15,26,352,4,0,30,64,44,220,11,18,242
+Reubicación Pila N°3,2155604412,DIA,Aprobado,Región Metropolitana,PAC,True,5,2,2,6,0,42,172,77,472,21,25,503,4,0,30,116,53,324,15,16,344
+Pedro de Valdivia 4400,2155704331,DIA,Desistido,Región Metropolitana,,False,0,0,0,,,,,,,,,,,,,,,,,,
+"Condominios Los Agustinos, Don Manuel y Tres Piedras",2155625933,DIA,Desistido,Región Metropolitana,PAC,True,5,1,1,7,0,43,163,60,,,,,5,0,30,110,40,,,,
+Proyecto Lote K Etapa 1 y 2 San Bernardo,2155842624,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,7,1,43,,36,310,24,26,344,5,1,29,,26,212,18,17,235
+Ampelo Solar,2155644725,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,9,1,42,,117,286,34,23,319,7,1,28,,79,194,24,17,219
+Club Padel Curacaví,2155901788,DIA,Desistido,Región Metropolitana,,False,0,0,0,,,,,,,,,,,,,,,,,,
+"Extracción de Áridos  Km 4,5 a 5,5 Ribera sur Río Maipo",2156269603,DIA,Desistido,Región Metropolitana,ICSARA,True,0,2,2,6,0,44,,138,,,,,4,0,30,,91,,,,
+Regularizacion Sistema de Riego con Agua tratada de RILES,2155884729,DIA,Desistido,Región Metropolitana,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Modificación Sistema de Tratamiento de RILES Viña BPHR,2156294021,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,3,2,42,,79,252,23,23,280,1,1,29,,53,171,17,17,190
+"Plataforma de Manejo de Residuos para Reciclaje y Valorización Energética, Coactiva SpA",2156299844,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,3,2,42,,148,358,24,27,390,1,1,29,,99,245,18,17,264
+Ampliación de la PTAS Paine,2156277164,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,5,0,43,,258,597,43,31,633,2,0,30,,175,405,30,21,428
+Proyecto Línea de Alta Tensión y Subestación Santa Teresa,2155916312,DIA,Aprobado,Región Metropolitana,PAC,True,5,2,2,5,0,43,117,91,429,22,31,465,2,0,30,77,63,293,15,19,314
+Proyecto Parque Fotovoltaico Zeus Solar,2156300681,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,4,1,42,,125,316,30,25,346,1,1,29,,83,215,20,17,234
+Pedro de Valdivia 4400,2156323626,DIA,Desistido,Región Metropolitana,ICSARA,True,0,1,2,10,1,42,,226,,,,,5,1,29,,155,,,,
+PROYECTO HABITACIONAL VICUÑA MACKENNA,2155986602,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,6,0,42,,186,393,21,26,425,3,0,30,,124,269,15,17,289
+Condominio Aysén 115 - III,2156299892,DIA,Aprobado,Región Metropolitana,PAC,True,5,2,2,8,0,41,127,96,434,31,32,474,5,0,29,84,67,297,22,19,321
+"Segunda Etapa, Obras complementarias Centro Industrial Parque Capital",2156365878,DIA,Aprobado,Región Metropolitana,PAC,True,5,2,2,6,1,42,158,36,707,17,32,746,4,1,29,105,26,481,13,21,507
+Edificio Independencia,2156386132,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,5,1,42,,81,343,24,27,376,3,1,29,,52,235,18,17,256
+Planta de Transformación de Residuos Agroindustriales Agrícola Regia,2156498335,DIA,Desistido,Región Metropolitana,ICSARA,True,0,0,1,4,0,45,,,,,,,4,0,30,,,,,,
+ISA Cerrillos,2156448423,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,6,1,42,,77,206,25,25,238,4,1,29,,50,140,19,17,162
+Regularización de Planta Tratamiento de Riles,2156449212,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,2,0,43,,155,415,14,32,449,2,0,30,,104,284,10,19,305
+Edificio Maimónides,2156472089,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,7,0,43,,141,260,13,27,294,5,0,30,,94,178,9,17,200
+Santuario de la Quebrada,2156521355,DIA,Desistido,Región Metropolitana,PAC,True,5,0,1,6,0,43,131,,,,,,4,0,30,86,,,,,
+Parque Fotovoltaico Cousiño,2156496461,DIA,Aprobado,Región Metropolitana,PAC,True,5,2,2,3,0,43,103,49,344,24,25,372,3,0,30,67,34,234,16,17,254
+Parque Solar Fotovoltaico El Paico,2156504890,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,3,0,43,,115,400,22,31,434,3,0,30,,75,273,15,19,295
+Centro de Almacenamiento de Datos Puente Alto,2156418711,DIA,Desistido,Región Metropolitana,ICSARA,True,0,0,1,7,0,42,,,,,,,5,0,29,,,,,,
+Cumbre de Girasoles,2156496518,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,6,1,42,,46,252,22,26,285,4,1,29,,29,172,16,16,193
+Estudio Geo Científico Norte,2156493482,DIA,No calificado,Región Metropolitana,,False,0,0,0,7,0,,,,,,,,5,0,,,,,,,
+Parque Fotovoltaico El Bautizo,2156645773,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,13,1,40,,211,455,28,26,495,8,1,26,,145,308,18,17,334
+Modernización Planta Melifeed,2156455057,DIA,No Admitido a Tramitación,Región Metropolitana,,False,0,0,0,28,,,,,,,,,19,,,,,,,,
+Proyecto Planta Solar Santa Isidora,2156683710,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,5,0,44,,142,312,31,25,342,3,0,30,,97,213,21,17,233
+Regularizacion Sistema de Riego con agua tratada de RILES,2156687722,DIA,No calificado,Región Metropolitana,,False,0,0,0,6,0,,,,,,,,4,0,,,,,,,
+TRANQUE LA CABAÑA,2156750797,DIA,No Admitido a Tramitación,Región Metropolitana,,False,0,0,0,6,,,,,,,,,4,,,,,,,,
+Bodegas Almacenamiento Productos de Sustancias Peligrosas,2156255713,DIA,Desistido,Región Metropolitana,,False,0,0,0,,,,,,,,,,,,,,,,,,
+TRANQUE LA CABAÑA,2156868596,DIA,Desistido,Región Metropolitana,ICSARA,True,0,2,2,22,0,47,,94,323,18,,,14,0,30,,66,222,14,,
+Regularización de Actividades Banco Arenero Preexistente Sociedad Catalán Herrera Hermanos y Cía. Ltda.,2156817670,DIA,No Admitido a Tramitación,Región Metropolitana,,False,0,0,0,7,,,,,,,,,5,,,,,,,,
+Centro Logístico Nuevo Maipú,2156899128,DIA,Desistido,Región Metropolitana,ICSARA,True,0,2,2,7,0,47,,217,,,,,5,0,30,,149,,,,
+Los Sauces,2156786332,DIA,Desistido,Región Metropolitana,ICSARA,True,0,2,2,7,0,45,,357,682,28,,,5,0,30,,243,463,19,,
+Zañartu 1076,2156901999,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,6,0,44,,32,164,23,25,195,4,0,29,,20,111,17,17,132
+Parque Solar Polpaico,2156948589,DIA,Desistido,Región Metropolitana,ICSARA,True,0,1,2,7,1,46,,121,,,,,3,1,29,,85,,,,
+Aldea del Encuentro,2156937860,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,8,1,44,,28,184,30,26,219,4,1,29,,20,127,22,17,149
+Dúcula Solar,2157129745,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,6,1,46,,60,188,21,28,223,2,1,29,,42,129,15,19,151
+Centro Logístico Padre Hurtado,2157117908,DIA,Aprobado,Región Metropolitana,PAC,True,4,2,2,8,0,42,88,38,309,28,26,343,4,0,27,60,28,212,20,17,233
+Centro de Almacenamiento de Datos Padre Hurtado,2156924955,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,9,0,47,,140,463,23,26,498,5,0,30,,98,314,15,17,336
+Centro de acopio con clasificación y separación de residuos Trabún,2156865524,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,22,1,46,,195,385,29,28,436,14,1,29,,135,262,18,18,295
+Edificio Brasil 1290,2157136003,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,6,0,43,,153,365,28,26,397,4,0,28,,106,249,18,17,270
+Patios de Nibsa,2157169601,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,7,1,44,,127,269,29,25,302,5,1,29,,89,184,19,17,207
+Patios de Berlioz,2157169610,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,7,1,44,,119,254,23,27,289,5,1,29,,83,175,17,17,198
+Modernización Planta Melifeed,2157265685,DIA,Desistido,Región Metropolitana,ICSARA,True,0,0,1,3,0,98,,,,,,,3,0,66,,,,,,
+Ampliación Centro de Distribución Ariztía (CDPO),2156938190,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,13,0,44,,89,227,23,26,266,8,0,30,,61,157,17,16,181
+PARQUE SOLAR COLINA,2155857104,DIA,Desistido,Región Metropolitana,ICSARA,True,0,0,1,3,0,46,,,,,,,3,0,30,,,,,,
+DIA Centro Logístico Portland,2156843981,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,5,0,44,,203,451,22,24,480,3,0,30,,140,306,14,16,325
+Parque Solar Fotovoltaico Las Violetas,2157311880,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,2,1,42,,62,196,11,25,224,2,1,28,,42,134,8,17,154
+Regularización planta industrial EDELPA,2157128868,DIA,No calificado,Región Metropolitana,,False,0,0,0,30,0,,,,,,,,21,0,,,,,,,
+Proyecto Habitacional Diagonal La Estrella,2157315177,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,5,0,44,,93,249,30,25,279,3,0,30,,65,171,20,17,191
+Conjunto Habitacional Viñedos de Alto Jahuel.,2157351434,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,9,1,42,,190,379,23,26,415,5,1,29,,132,259,15,17,282
+Vivienda en zona de preservación ecológica,2157547078,DIA,Desistido,Región Metropolitana,,False,0,0,0,,,,,,,,,,,,,,,,,,
+Lotes F2 y F3 CPB Cerrillos,2157394572,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,6,1,41,,83,218,22,27,252,4,1,28,,58,152,16,17,174
+San Francisco 301,2157607784,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,6,1,42,,62,255,28,26,288,4,1,29,,43,177,20,17,199
+PFV Alto Jahuel Solar,2157695433,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,5,1,110,,234,498,14,27,531,3,1,76,,158,340,9,18,362
+La Araucaria Norte - Lote RN1,2157847274,DIA,Desistido,Región Metropolitana,,False,0,0,0,,,,,,,,,,,,,,,,,,
+La Araucaria Norte - Lote RN1,2157912324,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,3,0,42,,109,253,28,31,287,3,0,29,,75,175,19,19,197
+Actualización de Planta Comercializadora de Encurtidos y Aceitunas La Tiltilana,2157933866,DIA,Desistido,Región Metropolitana,,False,0,0,0,6,1,,,,,,,,4,1,,,,,,,
+Línea de Alta Tensión Huechuraba,2157949519,DIA,Desistido,Región Metropolitana,,False,0,0,0,5,1,,,,,,,,3,1,,,,,,,
+Parque Fotovoltaico Isidora Solar,2157938017,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,5,0,43,,277,629,25,27,661,3,0,30,,187,429,17,16,448
+Ampliación Planta de Tratamiento de Aguas Servidas Pomaire,2157846905,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,5,1,42,,263,456,23,26,488,3,1,29,,179,312,17,17,333
+Línea de Alta Tensión Padre Hurtado,2157948797,DIA,No calificado,Región Metropolitana,,False,0,0,0,5,1,,,,,,,,3,1,,,,,,,
+Regularización Centro Logístico Puerto Madero,2157980543,DIA,Desistido,Región Metropolitana,ICSARA,True,0,2,2,20,0,42,,243,443,25,,,13,0,30,,164,303,18,,
+Proyecto Residencial Walker Martínez N°880,2158011351,DIA,Aprobado,Región Metropolitana,ICSARA,True,0,2,2,7,0,45,,86,210,22,26,243,5,0,30,,60,145,16,17,167
+Centro de Almacenamiento de Datos Huechuraba,2156924976,DIA,Aprobado,Región Metropolitana,PAC,True,1,2,2,5,0,42,100,147,518,23,28,551,3,0,30,70,97,354,17,18,375
+DIA PROYECTO -PMGD AGGREKO 01 - Expansión,2157743093,DIA,Desistido,Región Metropolitana,ICSARA,True,0,0,1,2,0,115,,,,,,,2,0,79,,,,,,
+"Continuidad Operacional Extracción de Áridos Km 6,5 a Km 8 Ribera Norte Río Maipo",2158474137,DIA,Desistido,Región Metropolitana,PAC,True,1,2,2,7,3,39,123,128,589,27,,,5,1,29,83,86,402,18,,
+Implementación sistema de tratamiento de riles Planta Isla de Maipo,2158008154,DIA,Aprobado,Región Metropolitana,PAC,True,1,2,2,28,0,42,102,79,357,29,24,409,19,0,30,70,54,242,19,16,277
+Vía Limpia PLUS - Planta Regeneración de Aceites Lubricantes,2158440405,DIA,Aprobado,Región Metropolitana,PAC,True,1,2,2,3,0,42,96,78,426,30,27,456,3,0,30,66,53,291,22,18,312

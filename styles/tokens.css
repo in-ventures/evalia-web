@@ -1,0 +1,175 @@
+/* ============================================================
+   EVALIA · DESIGN TOKENS
+   Única fuente de verdad. Todo color, tipografía, spacing,
+   radius, sombra y timing del sistema se define aquí.
+   Si necesitas un valor nuevo, agrégalo en este archivo.
+   ============================================================ */
+
+:root {
+  /* ── Brand · Navy ─────────────────────────────────────── */
+  --ev-navy-900: #002132;    /* antes: --primary         (landing)       */
+  --ev-navy-800: #003347;    /* antes: --brand-light · navy más profundo */
+  --ev-navy-700: #003F58;    /* antes: --primary-2 / --brand (demos)     */
+  --ev-navy-500: #005A80;    /* antes: --brand-lighter                   */
+  --ev-navy-50:  #E6F2F5;    /* antes: --brand-pale · tinte pálido       */
+  --ev-navy-300: #0F1E28;    /* texto casi negro, antes --ink            */
+  --ev-navy-glow: rgba(0, 63, 88, 0.08); /* antes: --brand-glow          */
+
+  /* ── Brand · Acentos ──────────────────────────────────── */
+  --ev-cyan:       #00C6DF;  /* acento marketing / landing               */
+  --ev-cyan-deep:  #00A2B8;
+  --ev-mint:       #68FFB7;  /* acento producto / demos                  */
+  --ev-mint-alt:   #5CF895;  /* variante del wordmark                    */
+
+  /* ── Neutrales ────────────────────────────────────────── */
+  --ev-ink:        #0F1E28;
+  --ev-muted:      #3F4A57;  /* AAA ≥ 9:1 sobre fondos claros            */
+  --ev-muted-2:    #475569;  /* text-dim de los demos                    */
+  --ev-soft:       #C9D0D6;  /* SOLO bordes/separadores, no para texto   */
+  --ev-line:       #E8ECEF;
+  --ev-line-2:     #F4F6F8;
+  --ev-line-dark:  #d5dbe5;  /* border de los demos, fondo más gris      */
+
+  /* ── Superficies ──────────────────────────────────────── */
+  --ev-bg:         #FFFFFF;  /* landing · fondo página                   */
+  --ev-bg-alt:     #FAFBFC;  /* landing · secciones claras alternas      */
+  --ev-bg-app:     #f3f5f8;  /* demos   · canvas de la aplicación        */
+  --ev-surface:    #ffffff;  /* demos   · tarjetas, paneles              */
+  --ev-surface-2:  #edf0f5;  /* demos   · paneles secundarios            */
+
+  /* ── Semánticos · Severidad ──────────────────────────── */
+  /* Unifica --accent-alta/media/baja, --alta/media/baja,
+     --accent-rep/muy/sim y --equiv/muy/sim en UNA familia. */
+  --ev-sev-high:    #991B1B;
+  --ev-sev-high-bg: #FEF2F2;
+  --ev-sev-high-br: #FECACA;
+
+  --ev-sev-med:     #7C2D12;
+  --ev-sev-med-bg:  #FFF7ED;
+  --ev-sev-med-br:  #FED7AA;
+
+  --ev-sev-low:     #1E40AF;
+  --ev-sev-low-bg:  #EFF6FF;
+  --ev-sev-low-br:  #BFDBFE;
+
+  --ev-sev-info:    #6D28D9;  /* violeta: equivalencia / repetido / info */
+  --ev-sev-info-bg: #F5F3FF;
+  --ev-sev-info-br: #DDD6FE;
+
+  /* ── Semánticos · Estado ─────────────────────────────── */
+  --ev-success:     #005C35;
+  --ev-success-bg:  #ECFDF5;
+  --ev-warn:        #B45309;
+  --ev-warn-bg:     #FFFBEB;
+  --ev-warn-br:     #FDE68A;
+
+  /* ── Tipografía · Familias ───────────────────────────── */
+  --ev-font-body: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --ev-font-mono: 'JetBrains Mono', 'SF Mono', ui-monospace, monospace;
+
+  /* ── Tipografía · Escala fluida ──────────────────────── */
+  --ev-fs-xs:      clamp(0.625rem, 0.5vw,   0.75rem);     /* labels, eyebrows */
+  --ev-fs-sm:      clamp(0.75rem,  0.75vw,  0.875rem);    /* metadata, subs   */
+  --ev-fs-md:      1rem;                                  /* body             */
+  --ev-fs-lg:      clamp(1rem,     1.25vw,  1.25rem);
+  --ev-fs-xl:      clamp(1.2rem,   2vw,     1.6rem);
+  --ev-fs-2xl:     clamp(1.3rem,   2.2vw,   1.8rem);      /* h3 demos         */
+  --ev-fs-3xl:     clamp(2rem,     3vw,     2.5rem);      /* h2 demos         */
+  --ev-fs-4xl:     clamp(34px,     3.6vw,   56px);        /* h2 landing       */
+  --ev-fs-display: clamp(42px,     5.5vw,   84px);        /* hero landing     */
+
+  /* H1 de páginas internas (Análisis / Caso / Demos) — un único tamaño
+     para toda la nav. Ligeramente menor que --ev-fs-display porque no
+     compiten con el hero narrativo de la landing. */
+  --ev-fs-page-title: clamp(40px, 5vw, 68px);
+  --ev-lh-page-title: 1.05;
+  --ev-ls-page-title: -0.025em;
+
+  /* ── Spacing · Escala 4pt ────────────────────────────── */
+  --ev-s-1:   4px;
+  --ev-s-2:   8px;
+  --ev-s-3:   12px;
+  --ev-s-4:   16px;
+  --ev-s-5:   24px;
+  --ev-s-6:   32px;
+  --ev-s-7:   48px;
+  --ev-s-8:   64px;
+  --ev-s-9:   96px;
+  --ev-s-10:  130px;   /* padding vertical de sección landing */
+
+  /* ── Layout ──────────────────────────────────────────── */
+  --ev-container:  1280px;
+  --ev-pad-x:      48px;
+  --ev-pad-x-sm:   24px;
+
+  /* ── Radius ──────────────────────────────────────────── */
+  --ev-radius-sm: 2px;    /* botones, badges — look editorial              */
+  --ev-radius-md: 4px;
+  --ev-radius-lg: 12px;   /* contenedores grandes (hero-stats demos)       */
+  --ev-radius-pill: 100px;
+
+  /* ── Sombras ─────────────────────────────────────────── */
+  --ev-shadow-sm: 0 1px 3px rgba(14, 30, 44, 0.06);
+  --ev-shadow-md: 0 4px 16px rgba(14, 30, 44, 0.08);
+  --ev-shadow-lg: 0 14px 40px rgba(0, 33, 50, 0.08);
+  --ev-shadow-xl: 0 20px 50px rgba(0, 33, 50, 0.15);
+
+  /* ── Motion ──────────────────────────────────────────── */
+  --ev-ease:      cubic-bezier(0.2, 0.8, 0.2, 1);
+  --ev-dur-fast:  0.2s;
+  --ev-dur:       0.3s;
+  --ev-dur-slow:  0.9s;
+
+  /* ── Z-index ─────────────────────────────────────────── */
+  --ev-z-nav:     60;
+  --ev-z-chrome:  9999;   /* topbar de demos — sobre el sidebar            */
+  --ev-z-overlay: 200;    /* panel de tweaks, modales                      */
+}
+
+/* ============================================================
+   CONTEXTO DE SUPERFICIE
+   El acento cambia según el contexto: la landing es cyan
+   (marketing), las demos son verde menta (producto).
+   Los componentes siempre usan --ev-accent sin saber dónde viven.
+   ============================================================ */
+
+/* Acento unificado: mint verde de marca para landing y demos. */
+body.ev-landing {
+  --ev-accent:       #4ECC68;
+  --ev-accent-deep:  #2EAA4D;
+  background: var(--ev-bg);
+  color: var(--ev-ink);
+}
+
+body.ev-demo {
+  --ev-accent:       #4ECC68;
+  --ev-accent-deep:  #2EAA4D;
+  background: var(--ev-bg-app);
+  color: var(--ev-ink);
+}
+
+/* ============================================================
+   TEMA "BRIGHT"
+   Paleta de severidad saturada para demos que prefieren color
+   vivo sobre los tonos editoriales. Se activa con una segunda
+   clase: <body class="ev-demo ev-theme-bright">. El-abra usa esto.
+   ============================================================ */
+
+body.ev-theme-bright {
+  --ev-sev-high:    #E63946;
+  --ev-sev-high-bg: #FEF2F2;
+  --ev-sev-high-br: #FBC4C9;
+
+  --ev-sev-med:     #F77F00;
+  --ev-sev-med-bg:  #FFF7ED;
+  --ev-sev-med-br:  #FED7AA;
+
+  --ev-sev-low:     #06A77D;
+  --ev-sev-low-bg:  #ECFDF5;
+  --ev-sev-low-br:  #BBF7D0;
+}
+
+/* Variantes de acento para el panel de tweaks de la landing. */
+body[data-accent="cyan"]  { --ev-accent: #00C6DF; --ev-accent-deep: #00A2B8; }
+body[data-accent="green"] { --ev-accent: #35C878; --ev-accent-deep: #289959; }
+body[data-accent="amber"] { --ev-accent: #E8A34D; --ev-accent-deep: #B8801E; }
