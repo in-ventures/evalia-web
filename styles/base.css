@@ -67,16 +67,24 @@ h1 em, h2 em, h3 em, h4 em {
   display: flex;
   align-items: center;
   gap: var(--ev-s-4);
-  font-size: 10px;
-  letter-spacing: 3px;
+  font-size: 12px;                     /* + tamaño (era 10px) para mejor legibilidad */
+  letter-spacing: 2.5px;
   text-transform: uppercase;
   color: var(--ev-muted);
-  font-weight: 400;
+  font-weight: 500;
   margin-bottom: var(--ev-s-6);
 }
-.ev-sec-label .n     { font-weight: 500; color: var(--ev-navy-900); font-size: 11px; letter-spacing: 2px; }
+.ev-sec-label .n {
+  font-weight: 600;
+  color: var(--ev-navy-900);
+  font-size: 14px;                     /* + tamaño (era 11px) */
+  letter-spacing: 1.5px;
+}
 .ev-sec-label .line  { flex: 0 0 56px; height: 1px; background: var(--ev-soft); }
-.ev-sec-label .label { color: var(--ev-accent); font-weight: 500; }
+.ev-sec-label .label {
+  color: var(--ev-success);            /* #005C35 = 8.13:1 sobre blanco → AAA ✓ */
+  font-weight: 600;                    /* + peso para más presencia visual */
+}
 
 /* Versión oscura del label. */
 .ev-section--dark .ev-sec-label       { color: rgba(255,255,255,0.6); }

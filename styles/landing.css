@@ -337,7 +337,7 @@
   background: linear-gradient(180deg, rgba(255,255,255,0.02), transparent 30%);
   pointer-events: none;
 }
-.ev-sec-label--invert .label { color: #4ECC68; }
+.ev-sec-label--invert .label { color: #6BE891; }  /* + brillante sobre navy oscuro */
 .ev-sec-label--invert .n { color: rgba(255,255,255,0.85); }
 .ev-sec-label--invert .line { background: rgba(255,255,255,0.25); }
 
