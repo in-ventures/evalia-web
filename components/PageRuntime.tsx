@@ -70,9 +70,30 @@ export function PageRuntime({ externalScripts = [], runtime }: Props) {
         // dangerouslySetInnerHTML del PageShell ya esté en el DOM
         await new Promise((r) => requestAnimationFrame(() => r(null)));
 
+        // Sanitize: eliminar el legacy nav.js IIFE y el scroll-toggle de
+        // landing.js. Ambos compiten con el TopBar de React: el nav.js
+        // sobrescribe innerHTML (rompe el dropdown + CTA) y el handler de
+        // scroll quita la clase `is-solid` al volver al top, dejando el
+        // topbar transparente sobre fondos claros. La fuente de verdad
+        // es el componente React TopBar.tsx.
+        let cleaned = runtime;
+        // 1) Eliminar bloque "js/nav.js" completo: desde su marker hasta
+        //    justo antes del siguiente bloque marker (típicamente landing.js).
+        //    Si nav.js es el último, eliminamos hasta el final.
+        cleaned = cleaned.replace(
+          /\/\* === js\/nav\.js === \*\/[\s\S]*?(?=\/\* === js\/|$)/,
+          "",
+        );
+        // 2) Eliminar el handler de nav-scroll dentro de landing.js: busca
+        //    el patrón exacto que toca classList.toggle('is-solid',...).
+        cleaned = cleaned.replace(
+          /const nav = document\.getElementById\(['"]site-nav['"]\);\s*if \(nav\) \{[\s\S]*?onScroll\(\);\s*\}/,
+          "",
+        );
+
         // Ejecutar el runtime aislado en IIFE para evitar conflictos en
         // re-ejecuciones (const/let no se pueden redeclarar al top-level)
-        const wrapped = `(function(){\n${runtime}\n})();`;
+        const wrapped = `(function(){\n${cleaned}\n})();`;
         // eslint-disable-next-line @typescript-eslint/no-implied-eval, no-new-func
         new Function(wrapped)();
       } catch (err) {
