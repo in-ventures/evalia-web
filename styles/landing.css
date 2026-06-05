@@ -2593,3 +2593,153 @@ a.ev-analysis--linked:hover h3 { color: var(--ev-accent); }
   .ev-site-footer__mid, .ev-site-footer__right { padding-top: 0; }
   .ev-footer__tag { max-width: none; }
 }
+
+/* ============================================================
+   SECCIÓN 03 · POR QUÉ EVALIA
+   Mismo lenguaje visual que ev-guarantees / ev-impact (tokens
+   existentes, tipografía Poppins, navy/accent del sistema).
+   ============================================================ */
+.ev-why .ev-sec-head { max-width: 760px; }
+.ev-why .ev-sec-head h2 {
+  font-size: clamp(28px, 3.6vw, 40px);
+  font-weight: 300;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  margin-top: 18px;
+}
+
+/* Split: dos paneles lado a lado (basta un prompt | necesita Evalia) */
+.ev-why__split {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  margin-top: 56px;
+}
+.ev-why__panel {
+  border: 1px solid var(--ev-line);
+  border-radius: 6px;
+  padding: 32px 30px;
+  background: #FFFFFF;
+  transition: border-color var(--ev-dur) var(--ev-ease);
+}
+.ev-why__panel--accent {
+  border-color: rgba(0, 198, 223, 0.45);
+  background: linear-gradient(180deg, rgba(0, 198, 223, 0.06), rgba(0, 198, 223, 0.01));
+}
+.ev-why__tag {
+  font-family: var(--ev-font-mono, var(--ev-font-body));
+  font-size: 11px;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--ev-muted);
+}
+.ev-why__panel--accent .ev-why__tag { color: var(--ev-accent-deep); }
+.ev-why__panel-title {
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+  color: var(--ev-navy-900);
+  margin: 10px 0 20px;
+}
+.ev-why__list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  padding: 0;
+  margin: 0;
+}
+.ev-why__list li {
+  position: relative;
+  padding-left: 22px;
+  font-size: 14.5px;
+  line-height: 1.55;
+  color: var(--ev-muted);
+}
+.ev-why__list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 9px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--ev-muted);
+  opacity: 0.6;
+}
+.ev-why__panel--accent .ev-why__list li { color: var(--ev-navy-900); }
+.ev-why__panel--accent .ev-why__list li::before {
+  background: var(--ev-accent-deep);
+  opacity: 1;
+}
+.ev-why__list li strong { color: var(--ev-navy-900); font-weight: 500; }
+
+/* Subhead antes del grid de 4 razones */
+.ev-why__reasons-head { margin: 64px 0 28px; }
+.ev-why__sub {
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  color: var(--ev-navy-900);
+  max-width: 38ch;
+}
+
+/* Grid de 4 razones */
+.ev-why__grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: var(--ev-line);
+  border: 1px solid var(--ev-line);
+  border-radius: 6px;
+  overflow: hidden;
+}
+.ev-why__card {
+  background: #FFFFFF;
+  padding: 32px 30px;
+  transition: background var(--ev-dur) var(--ev-ease);
+}
+.ev-why__card:hover { background: var(--ev-bg-alt); }
+.ev-why__num {
+  font-family: var(--ev-font-mono, var(--ev-font-body));
+  font-size: 13px;
+  letter-spacing: 2.5px;
+  font-weight: 600;
+  color: var(--ev-accent-deep);
+}
+.ev-why__card-title {
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  color: var(--ev-navy-900);
+  margin: 14px 0 10px;
+  line-height: 1.3;
+}
+.ev-why__card-body {
+  font-size: 14.5px;
+  line-height: 1.6;
+  color: var(--ev-muted);
+}
+
+/* Nota honesta al cierre */
+.ev-why__note {
+  margin-top: 56px;
+  padding: 18px 0 18px 22px;
+  border-left: 2px solid var(--ev-accent-deep);
+  max-width: 720px;
+  font-size: 15px;
+  line-height: 1.65;
+  color: var(--ev-muted);
+}
+.ev-why__note strong { color: var(--ev-navy-900); font-weight: 500; }
+
+/* Responsive */
+@media (max-width: 760px) {
+  .ev-why__split,
+  .ev-why__grid { grid-template-columns: 1fr; }
+  .ev-why__reasons-head { margin: 48px 0 22px; }
+  .ev-why__panel,
+  .ev-why__card { padding: 26px 22px; }
+}

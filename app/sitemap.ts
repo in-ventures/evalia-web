@@ -10,6 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: "daily" | "weekly" | "monthly" | "yearly";
   }> = [
     { path: "/", priority: 1.0, changeFrequency: "weekly" },
+    { path: "/por-que-evalia", priority: 0.85, changeFrequency: "monthly" },
     { path: "/caso-epsa", priority: 0.9, changeFrequency: "monthly" },
     { path: "/demos", priority: 0.9, changeFrequency: "monthly" },
     { path: "/demos/thayari-consistencia", priority: 0.7, changeFrequency: "monthly" },

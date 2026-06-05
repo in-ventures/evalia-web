@@ -8,7 +8,8 @@ import { BOOKING_URL } from "@/lib/seo";
 const NAV_LINKS = [
   { href: "/#evaluacion-ambiental", label: "Soluciones IA" },
   { href: "/#demos", label: "Demos" },
-  { href: "/#que-es", label: "Servicio Evalia" },
+  { href: "/#que-es", label: "Servicio" },
+  { href: "/#por-que-evalia", label: "Por qué Evalia" },
   { href: "/#impacto", label: "Impacto" },
   { href: "/#seguridad", label: "Seguridad" },
   { href: "/#qa", label: "Preguntas" },
