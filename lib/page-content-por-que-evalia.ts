@@ -84,7 +84,7 @@ export const POR_QUE_EVALIA_HTML = `
     </section>
 
     <section class="por-section por-wrap">
-      <p class="por-note por-reveal"><b>Para ser justos:</b> en documentos pequeños y tareas simples, un prompt directo es eficiente y más barato. Evalia no compite ahí. Aporta donde el cruce debe ser exhaustivo, trazable y defendible.</p>
+      <p class="por-note por-reveal"><b>En resumen:</b> en documentos pequeños y tareas simples, un prompt directo es eficiente y más barato. Evalia no compite ahí. Aporta donde el cruce debe ser exhaustivo, trazable y defendible.</p>
     </section>
 
     <section class="por-section por-wrap">
